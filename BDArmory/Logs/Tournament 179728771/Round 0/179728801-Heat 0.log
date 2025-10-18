@@ -1,0 +1,35 @@
+[BDArmory.BDACompetitionMode:179728801]: Dumping Results after 99s (of 0s) at 2025-09-11 04:42:49 -04:00
+[BDArmory.BDACompetitionMode:179728801]: RESULT:Win:{"team": "team floppa", "members": ["FF-218C-5 Wasp (1990)", "FF-218C-5 Wasp (1990)_1", "FF-218C-5 Wasp (1990)_2"]}
+[BDArmory.BDACompetitionMode:179728801]: DEADTEAMS:[{"team": "team bingus", "members": ["Pirouette", "Pirouette_1", "Pirouette_2"]}]
+[BDArmory.BDACompetitionMode:179728801]: ALIVE:FF-218C-5 Wasp (1990)
+[BDArmory.BDACompetitionMode:179728801]: ALIVE:FF-218C-5 Wasp (1990)_1
+[BDArmory.BDACompetitionMode:179728801]: ALIVE:FF-218C-5 Wasp (1990)_2
+[BDArmory.BDACompetitionMode:179728801]: DEAD:0:49.0:Pirouette
+[BDArmory.BDACompetitionMode:179728801]: DEAD:2:93.0:Pirouette_1
+[BDArmory.BDACompetitionMode:179728801]: DEAD:1:84.0:Pirouette_2
+[BDArmory.BDACompetitionMode:179728801]: WHOSHOTWHOWITHGUNS:Pirouette_1:2:FF-218C-5 Wasp (1990)_1
+[BDArmory.BDACompetitionMode:179728801]: WHOSHOTWHOWITHGUNS:Pirouette_2:11:FF-218C-5 Wasp (1990)_2:2:FF-218C-5 Wasp (1990)
+[BDArmory.BDACompetitionMode:179728801]: WHODAMAGEDWHOWITHGUNS:Pirouette_1:749.3:FF-218C-5 Wasp (1990)_1
+[BDArmory.BDACompetitionMode:179728801]: WHODAMAGEDWHOWITHGUNS:Pirouette_2:3025.8:FF-218C-5 Wasp (1990)_2
+[BDArmory.BDACompetitionMode:179728801]: WHOHITWHOWITHMISSILES:Pirouette_1:1:FF-218C-5 Wasp (1990)_2
+[BDArmory.BDACompetitionMode:179728801]: WHOHITWHOWITHMISSILES:Pirouette_2:1:FF-218C-5 Wasp (1990)_2
+[BDArmory.BDACompetitionMode:179728801]: WHOPARTSHITWHOWITHMISSILES:Pirouette_1:39:FF-218C-5 Wasp (1990)_2
+[BDArmory.BDACompetitionMode:179728801]: WHOPARTSHITWHOWITHMISSILES:Pirouette_2:51:FF-218C-5 Wasp (1990)_2
+[BDArmory.BDACompetitionMode:179728801]: WHODAMAGEDWHOWITHMISSILES:Pirouette_1:39949.1:FF-218C-5 Wasp (1990)_2
+[BDArmory.BDACompetitionMode:179728801]: WHODAMAGEDWHOWITHMISSILES:Pirouette_2:73657.4:FF-218C-5 Wasp (1990)_2
+[BDArmory.BDACompetitionMode:179728801]: WHODAMAGEDWHOWITHBATTLEDAMAGE:Pirouette_1:0.4:FF-218C-5 Wasp (1990)_1
+[BDArmory.BDACompetitionMode:179728801]: WHODAMAGEDWHOWITHBATTLEDAMAGE:Pirouette_2:203.6:FF-218C-5 Wasp (1990)_2
+[BDArmory.BDACompetitionMode:179728801]: KILLSTEALMISSILES:Pirouette_1:FF-218C-5 Wasp (1990)_2
+[BDArmory.BDACompetitionMode:179728801]: KILLSTEALMISSILES:Pirouette_2:FF-218C-5 Wasp (1990)_2
+[BDArmory.BDACompetitionMode:179728801]: HPLEFT:FF-218C-5 Wasp (1990):100
+[BDArmory.BDACompetitionMode:179728801]: HPLEFT:FF-218C-5 Wasp (1990)_1:100
+[BDArmory.BDACompetitionMode:179728801]: HPLEFT:FF-218C-5 Wasp (1990)_2:100
+[BDArmory.BDACompetitionMode:179728801]: HPLEFT:Pirouette:0
+[BDArmory.BDACompetitionMode:179728801]: HPLEFT:Pirouette_1:0
+[BDArmory.BDACompetitionMode:179728801]: HPLEFT:Pirouette_2:0
+[BDArmory.BDACompetitionMode:179728801]: ACCURACY:FF-218C-5 Wasp (1990):2/26:0/0
+[BDArmory.BDACompetitionMode:179728801]: ACCURACY:FF-218C-5 Wasp (1990)_1:2/51:0/0
+[BDArmory.BDACompetitionMode:179728801]: ACCURACY:FF-218C-5 Wasp (1990)_2:11/68:0/0
+[BDArmory.BDACompetitionMode:179728801]: ACCURACY:Pirouette:0/0:0/0
+[BDArmory.BDACompetitionMode:179728801]: ACCURACY:Pirouette_1:0/0:0/0
+[BDArmory.BDACompetitionMode:179728801]: ACCURACY:Pirouette_2:0/0:0/0

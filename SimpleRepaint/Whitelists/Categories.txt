@@ -1,0 +1,18 @@
+//
+// Example whitelist
+// Only used if "RepaintWhitelistedPartsOnly" is set to "true" (see GameData/SimpleRepaint/Settings.cfg)
+//
+
+// Repaint all parts from Structural and FuelTank categories
+@PART[*]:HAS[#category[Structural]]:BEFORE[zzz_SimpleRepaint]
+{
+	%SR_Whitelisted = true
+}
+@PART[*]:HAS[#category[FuelTank]]:BEFORE[zzz_SimpleRepaint]
+{
+	%SR_Whitelisted = true
+}
+@PART[*]:HAS[#category[Propulsion],!MODULE[ModuleEngines*]]:BEFORE[zzz_SimpleRepaint]
+{
+	%SR_Whitelisted = true
+}

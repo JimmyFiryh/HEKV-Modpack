@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSettingItem xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SettingItem>
+    <Name>preset</Name>
+    <Value xsi:type="Preset">
+      <Abbreviation>TAC</Abbreviation>
+      <IsHud>true</IsHud>
+      <IsHudBackground>true</IsHudBackground>
+      <Name>TAC ANALYSIS</Name>
+      <ReadoutNames>
+        <string>Vessel.Name</string>
+        <string>Miscellaneous.Separator</string>
+        <string>Vessel.PartCount</string>
+        <string>Vessel.Mass</string>
+        <string>Vessel.DeltaVCurrent</string>
+        <string>Vessel.IntakeAirDemandSupply</string>
+        <string>Miscellaneous.ClearSeparator</string>
+        <string>Surface.HorizontalSpeed</string>
+        <string>Surface.MachNumber</string>
+        <string>Surface.VerticalSpeed</string>
+        <string>Surface.AltitudeTerrain</string>
+        <string>Miscellaneous.ClearSeparator</string>
+        <string>Vessel.ThrustToWeight</string>
+        <string>Vessel.Thrust</string>
+        <string>Vessel.Acceleration</string>
+        <string>Surface.GeeForce</string>
+      </ReadoutNames>
+    </Value>
+  </SettingItem>
+</ArrayOfSettingItem>

@@ -1,0 +1,17 @@
+
+
+   DPRS:[hw]{1:SIP4.1}Pa[/hw]                                  ASL:[hw]{0:SIP4}m[/hw]$&$ ALTITUDE DYNAMICPRESSURE
+   ATM:[hw]{0,5:00.0%} [/hw]            [hw]   [/hw]{1,6:000.0}°[hw] [/hw]              TER:[hw]{2:SIP4}m[/hw] $&$ ATMOSPHEREDEPTH HEADING TERRAINHEIGHT
+
+      [hw]{0:SIP4}m/s[/hw]                                   [hw]{1:SIP4}m[/hw] $&$ VERTSPEED RADARALTOCEAN
+	  
+ {0,7:"SAS";;}                                   {1,7:"HEAT!";;}$&$ SAS ENGINEOVERHEATALARM
+ {0,7:"GEAR";;}                                   {1,7:"GEAR!";;}$&$ GEAR GROUNDPROXIMITYALARM
+ {0,7:"BRAKE";;}                                    {1,7:"SLOPE!";;} $&$ BRAKES SLOPEALARM
+ {0,7:"LIGHT";;}                          $&$ LIGHTS
+
+  SPD:[hw]{0:SIP4}m/s[/hw]                                    TRIM $&$ SURFSPEED
+  EAS:[hw]{0:SIP4}m/s[/hw]                                    [hw] P:{1,6:00.0%}[/hw] $&$ EASPEED STICKPITCHTRIM
+  HRZ:[hw]{0:SIP4}m/s[/hw]                                    [hw] R:{1,6:00.0%}[/hw] $&$ HORZVELOCITY STICKROLLTRIM
+                                              [hw]Y:{0,6:00.0%}[/hw] $&$   STICKYAWTRIM
+[@y10]             [hw]THR:{0,6:00.0%} ({1,6:00.0%})        Pitch: {2,6:000.0}°   Roll: {3,6:000.0}°[/hw] $&$ THROTTLE EFFECTIVETHROTTLE PITCH ROLL

@@ -1,0 +1,21 @@
+{
+  "NAME": "EditorExtensionsRedux",
+  "URL": "http://ksp.spacetux.net/avc/EditorExtensionsRedux",
+  "DOWNLOAD": "https://spacedock.info/mod/48/Editor%20Extensions%20Redux",
+  "VERSION": {
+    "MAJOR": 3,
+    "MINOR": 4,
+    "PATCH": 5,
+    "BUILD": 0
+  },
+  "KSP_VERSION": {
+    "MAJOR": 1,
+    "MINOR": 12,
+    "PATCH": 5
+  },
+  "KSP_VERSION_MIN": {
+    "MAJOR": 1,
+    "MINOR": 11,
+    "PATCH": 1
+  }
+}

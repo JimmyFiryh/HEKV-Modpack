@@ -1,0 +1,10 @@
+// changelog for updates by Skalou
+
+***update v1.0.0***
+- removed some lost flag textures in folders, kerbal default flags in engines ...
+- added a model and config to add airlocks and ladders for the s1p5cabin, it was not possible to eva from this part !
+- added AirplanePlus\Updates folder with patch to store patches:
+	- MM_AirplanePlus_TWEAKS.cfg , read stuff inside to know
+	- Kerbalism_AirplanePlus.cfg , for kerbalism compatibility
+- added a changelog and tweaked KSP-AVC .version file
+

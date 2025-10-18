@@ -1,0 +1,42 @@
+[BDArmory.BDACompetitionMode:179294732]: Dumping Results after 103s (of 0s) at 2025-09-06 04:10:42 -04:00
+[BDArmory.BDACompetitionMode:179294732]: RESULT:Win:{"team": "team floppa", "members": ["FH-102B-1 Naga", "FH-102B-1 Naga_1", "FH-102B-1 Naga_2"]}
+[BDArmory.BDACompetitionMode:179294732]: DEADTEAMS:[{"team": "team bingus", "members": ["DF-14 Poseidon II", "DF-14 Poseidon II_1", "DF-14 Poseidon II_2"]}]
+[BDArmory.BDACompetitionMode:179294732]: ALIVE:FH-102B-1 Naga
+[BDArmory.BDACompetitionMode:179294732]: ALIVE:FH-102B-1 Naga_1
+[BDArmory.BDACompetitionMode:179294732]: ALIVE:FH-102B-1 Naga_2
+[BDArmory.BDACompetitionMode:179294732]: DEAD:0:85.0:DF-14 Poseidon II
+[BDArmory.BDACompetitionMode:179294732]: DEAD:2:97.0:DF-14 Poseidon II_1
+[BDArmory.BDACompetitionMode:179294732]: DEAD:1:90.0:DF-14 Poseidon II_2
+[BDArmory.BDACompetitionMode:179294732]: WHOSHOTWHOWITHGUNS:FH-102B-1 Naga_1:8:DF-14 Poseidon II_1:2:DF-14 Poseidon II_2
+[BDArmory.BDACompetitionMode:179294732]: WHOSHOTWHOWITHGUNS:DF-14 Poseidon II:7:FH-102B-1 Naga_2
+[BDArmory.BDACompetitionMode:179294732]: WHOSHOTWHOWITHGUNS:DF-14 Poseidon II_1:9:FH-102B-1 Naga
+[BDArmory.BDACompetitionMode:179294732]: WHOSHOTWHOWITHGUNS:DF-14 Poseidon II_2:2:FH-102B-1 Naga
+[BDArmory.BDACompetitionMode:179294732]: WHODAMAGEDWHOWITHGUNS:FH-102B-1 Naga_1:1014.8:DF-14 Poseidon II_1:404.2:DF-14 Poseidon II_2
+[BDArmory.BDACompetitionMode:179294732]: WHODAMAGEDWHOWITHGUNS:DF-14 Poseidon II:3721.9:FH-102B-1 Naga_2
+[BDArmory.BDACompetitionMode:179294732]: WHODAMAGEDWHOWITHGUNS:DF-14 Poseidon II_1:4128.6:FH-102B-1 Naga
+[BDArmory.BDACompetitionMode:179294732]: WHODAMAGEDWHOWITHGUNS:DF-14 Poseidon II_2:803.2:FH-102B-1 Naga
+[BDArmory.BDACompetitionMode:179294732]: WHOHITWHOWITHMISSILES:FH-102B-1 Naga:1:DF-14 Poseidon II_2:1:DF-14 Poseidon II
+[BDArmory.BDACompetitionMode:179294732]: WHOHITWHOWITHMISSILES:FH-102B-1 Naga_2:1:DF-14 Poseidon II_2
+[BDArmory.BDACompetitionMode:179294732]: WHOHITWHOWITHMISSILES:DF-14 Poseidon II_1:1:FH-102B-1 Naga
+[BDArmory.BDACompetitionMode:179294732]: WHOPARTSHITWHOWITHMISSILES:FH-102B-1 Naga:115:DF-14 Poseidon II_2:110:DF-14 Poseidon II
+[BDArmory.BDACompetitionMode:179294732]: WHOPARTSHITWHOWITHMISSILES:FH-102B-1 Naga_2:114:DF-14 Poseidon II_2
+[BDArmory.BDACompetitionMode:179294732]: WHOPARTSHITWHOWITHMISSILES:DF-14 Poseidon II_1:96:FH-102B-1 Naga
+[BDArmory.BDACompetitionMode:179294732]: WHODAMAGEDWHOWITHMISSILES:DF-14 Poseidon II_1:8560.5:FH-102B-1 Naga
+[BDArmory.BDACompetitionMode:179294732]: WHODAMAGEDWHOWITHBATTLEDAMAGE:FH-102B-1 Naga_1:200.4:DF-14 Poseidon II_1:200.4:DF-14 Poseidon II_2
+[BDArmory.BDACompetitionMode:179294732]: WHODAMAGEDWHOWITHBATTLEDAMAGE:DF-14 Poseidon II:1170.8:FH-102B-1 Naga_2:14733.8:DF-14 Poseidon II
+[BDArmory.BDACompetitionMode:179294732]: WHODAMAGEDWHOWITHBATTLEDAMAGE:DF-14 Poseidon II_1:754.8:FH-102B-1 Naga:8467.5:DF-14 Poseidon II_1
+[BDArmory.BDACompetitionMode:179294732]: WHODAMAGEDWHOWITHBATTLEDAMAGE:DF-14 Poseidon II_2:64.0:FH-102B-1 Naga:9037.0:DF-14 Poseidon II_2
+[BDArmory.BDACompetitionMode:179294732]: GMKILL:DF-14 Poseidon II_1:LandedTooLong
+[BDArmory.BDACompetitionMode:179294732]: GMKILL:DF-14 Poseidon II_2:LandedTooLong
+[BDArmory.BDACompetitionMode:179294732]: HPLEFT:FH-102B-1 Naga:100
+[BDArmory.BDACompetitionMode:179294732]: HPLEFT:FH-102B-1 Naga_1:99.4252873563218
+[BDArmory.BDACompetitionMode:179294732]: HPLEFT:FH-102B-1 Naga_2:100
+[BDArmory.BDACompetitionMode:179294732]: HPLEFT:DF-14 Poseidon II:0
+[BDArmory.BDACompetitionMode:179294732]: HPLEFT:DF-14 Poseidon II_1:0
+[BDArmory.BDACompetitionMode:179294732]: HPLEFT:DF-14 Poseidon II_2:0
+[BDArmory.BDACompetitionMode:179294732]: ACCURACY:FH-102B-1 Naga:11/38:0/0
+[BDArmory.BDACompetitionMode:179294732]: ACCURACY:FH-102B-1 Naga_1:0/0:0/0
+[BDArmory.BDACompetitionMode:179294732]: ACCURACY:FH-102B-1 Naga_2:7/101:0/0
+[BDArmory.BDACompetitionMode:179294732]: ACCURACY:DF-14 Poseidon II:0/4:0/0
+[BDArmory.BDACompetitionMode:179294732]: ACCURACY:DF-14 Poseidon II_1:8/18:0/0
+[BDArmory.BDACompetitionMode:179294732]: ACCURACY:DF-14 Poseidon II_2:2/2:0/0

@@ -1,0 +1,146 @@
+Executing: KerbalEngineer - 1.1.9.0
+Assembly: C:\Users\jimmy\Desktop\KSP Saves\Project Showdown Install\Kerbal Space Program\GameData\KerbalEngineer\KerbalEngineer.dll
+
+[Log 19:08:23.1937464]: images (UnityEngine.AssetBundle)
+[Log 19:12:01.1134433]: Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: ModuleManagerWatchDog, Version=1.1.2.0, Culture=neutral, PublicKeyToken=null
+Assembly: Scale_Redist, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: DepthMask, Version=1.1.3.0, Culture=neutral, PublicKeyToken=null
+Assembly: GroundEffect, Version=1.0.7533.23743, Culture=neutral, PublicKeyToken=null
+Assembly: ModuleManager, Version=4.2.3.0, Culture=neutral, PublicKeyToken=null
+Assembly: ClickThroughBlocker, Version=2.1.10.21, Culture=neutral, PublicKeyToken=null
+Assembly: 0Harmony, Version=2.2.1.0, Culture=neutral, PublicKeyToken=null
+Assembly: HarmonyInstallChecker, Version=2.2.1.0, Culture=neutral, PublicKeyToken=null
+Assembly: ToolbarControl, Version=0.1.9.11, Culture=neutral, PublicKeyToken=null
+Assembly: KSPe.Light.Recall, Version=2.5.2.0, Culture=neutral, PublicKeyToken=null
+Assembly: Attached, Version=0.5.0.2, Culture=neutral, PublicKeyToken=null
+Assembly: AttachedOnEditor, Version=0.5.0.2, Culture=neutral, PublicKeyToken=null
+Assembly: ChillingOut, Version=0.5.0.2, Culture=neutral, PublicKeyToken=null
+Assembly: Driftless, Version=0.5.0.2, Culture=neutral, PublicKeyToken=null
+Assembly: KSP-Recall, Version=0.5.0.2, Culture=neutral, PublicKeyToken=null
+Assembly: Refunding, Version=0.5.0.2, Culture=neutral, PublicKeyToken=null
+Assembly: Resourceful, Version=0.5.0.2, Culture=neutral, PublicKeyToken=null
+Assembly: MiniAVC, Version=1.0.3.1, Culture=neutral, PublicKeyToken=null
+Assembly: AviationLights, Version=4.1.2.0, Culture=neutral, PublicKeyToken=null
+Assembly: B9AnimationModules, Version=1.6.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: B9PartSwitch, Version=2.19.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: B9-PWings-Fork, Version=0.47.3.0, Culture=neutral, PublicKeyToken=null
+Assembly: BDAnimationModules, Version=0.6.7.1, Culture=neutral, PublicKeyToken=null
+Assembly: RNModules, Version=1.2.1.0, Culture=neutral, PublicKeyToken=null
+Assembly: BDArmory, Version=1.9.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: CameraTools, Version=1.35.1.0, Culture=neutral, PublicKeyToken=null
+Assembly: CaptureTools, Version=1.4.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: ConformalDecals, Version=0.2.10.0, Culture=neutral, PublicKeyToken=null
+Assembly: CorrectCoL, Version=1.6.5.4, Culture=neutral, PublicKeyToken=null
+Assembly: CustomPreLaunchChecks, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: PS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: DockRotate, Version=1.12.1.55, Culture=neutral, PublicKeyToken=null
+Assembly: BlendshapeModelLoader, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: DroidCorp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: Kerbelka, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: EditorExtensionsRedux, Version=3.4.5.0, Culture=neutral, PublicKeyToken=null
+Assembly: Atmosphere, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: CelestialShadows, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: CityLights, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: EVEManager, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: PartFX, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: PQSManager, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: ShaderLoader, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: Terrain, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: TextureConfig, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: Utils, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: _BuildManager, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: Firespitter, Version=7.3.7287.12431, Culture=neutral, PublicKeyToken=null
+Assembly: FShangarExtender, Version=3.6.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: HeapPadder, Version=0.0.2.4, Culture=neutral, PublicKeyToken=null
+Assembly: HUDReplacer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: KAX, Version=2.8.1.0, Culture=neutral, PublicKeyToken=null
+Assembly: KSPe.Light.KAX, Version=2.3.0.4, Culture=neutral, PublicKeyToken=null
+Assembly: KerbalEngineer.Unity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: KerbalEngineer, Version=1.1.9.0, Culture=neutral, PublicKeyToken=null
+Assembly: KerbalJointReinforcementNext, Version=4.2.27.0, Culture=neutral, PublicKeyToken=null
+Assembly: KerbalKonstructs, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: HyperEdit, Version=1.5.8.0, Culture=neutral, PublicKeyToken=null
+Assembly: ACA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: KronalUtils, Version=0.1.1.0, Culture=neutral, PublicKeyToken=null
+Assembly: 0_MultipleModuleInPartAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: KSPCommunityFixes, Version=1.36.1.0, Culture=neutral, PublicKeyToken=null
+Assembly: KSPWheel, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: LoadingScreenManager, Version=1.2.8.2, Culture=neutral, PublicKeyToken=null
+Assembly: MiniAVC-V2, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: StardustUtilities, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: ModularFlightIntegrator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: WatchDogForInterstellarRedist, Version=1.1.2.0, Culture=neutral, PublicKeyToken=null
+Assembly: WatchDogForScaleRedist, Version=1.1.2.0, Culture=neutral, PublicKeyToken=null
+Assembly: WatchDogInstallChecker, Version=1.1.2.0, Culture=neutral, PublicKeyToken=null
+Assembly: WatchDogPDLauncher, Version=1.1.2.0, Culture=neutral, PublicKeyToken=null
+Assembly: PhysicsRangeExtender, Version=1.19.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: PlanetShine, Version=0.2.6.1, Culture=neutral, PublicKeyToken=null
+Assembly: KspPluginScience, Version=1.0.5977.27901, Culture=neutral, PublicKeyToken=null
+Assembly: TargetObsessionSystems, Version=1.0.5979.3660, Culture=neutral, PublicKeyToken=null
+Assembly: KSP_Log, Version=1.2.0.1, Culture=neutral, PublicKeyToken=null
+Assembly: PreciseEditor, Version=1.5.0.1, Culture=neutral, PublicKeyToken=null
+Assembly: ProceduralParts, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: RCSBuildAid, Version=1.0.6.35359, Culture=neutral, PublicKeyToken=null
+Assembly: scatterer, Version=0.900.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: Shabby, Version=0.2.7.0, Culture=neutral, PublicKeyToken=null
+Assembly: SmartParts, Version=1.10.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: ButtonManager, Version=1.0.1.1, Culture=neutral, PublicKeyToken=null
+Assembly: KSP_ColorPicker, Version=1.1.0.5, Culture=neutral, PublicKeyToken=null
+Assembly: KSP_PartHighlighter, Version=1.1.0.10, Culture=neutral, PublicKeyToken=null
+Assembly: SpaceTuxUtility, Version=1.0.1.3, Culture=neutral, PublicKeyToken=null
+Assembly: VesselModuleSave, Version=1.0.1.2, Culture=neutral, PublicKeyToken=null
+Assembly: SXTContinued, Version=0.3.29.8, Culture=neutral, PublicKeyToken=null
+Assembly: TextureReplacer, Version=4.2.1.21267, Culture=neutral, PublicKeyToken=null
+Assembly: TimeControl, Version=2.11.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: TUFX, Version=1.0.7.1, Culture=neutral, PublicKeyToken=null
+Assembly: KSPe.Light.TweakScale, Version=2.5.4.2, Culture=neutral, PublicKeyToken=null
+Assembly: Scale, Version=2.4.8.3, Culture=neutral, PublicKeyToken=null
+Assembly: TweakScale.WatchDog, Version=2.4.8.3, Culture=neutral, PublicKeyToken=null
+Assembly: TweakScaleCompanion_Frameworks, Version=0.4.0.3, Culture=neutral, PublicKeyToken=null
+Assembly: TweakScalerTestFlightCore, Version=0.4.0.3, Culture=neutral, PublicKeyToken=null
+Assembly: Waterfall, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: TweakScalerWaterfallFX, Version=0.4.0.3, Culture=neutral, PublicKeyToken=null
+Assembly: TweakScaleCompanion_FS, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: TweakScalerFSBuoyancy, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: TweakScaleCompanion_KIAS, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: TweakScalerKISInventory, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: TweakScaleCompanion_PKMC, Version=2.2.1.1, Culture=neutral, PublicKeyToken=null
+Assembly: UniverseLibKSP, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: UnityExplorerKSP, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: ScattererIntegration, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+[Log 19:12:01.1134433]: FlightEngineerCore->Awake
+[Log 19:12:04.2347442]: FlightEngineerCore->Start
+[Log 19:12:18.1877452]: FlightEngineerCore->OnDestroy
+[Log 19:18:48.0736857]: BuildAdvanced->OnDestroy
+[Log 19:18:49.9171382]: ActionMenu->Awake
+[Log 19:18:49.9171382]: FlightEngineerCore->Awake
+[Log 19:18:56.9004517]: ActionMenu->Start
+[Log 19:18:56.9116640]: FlightEngineerCore->Start
+[Log 20:04:01.6799019]: ActionMenu->OnDestroy
+[Log 20:04:01.9769319]: FlightEngineerCore->OnDestroy
+[Log 20:04:03.9198121]: ActionMenu->Awake
+[Log 20:04:03.9198121]: FlightEngineerCore->Awake
+[Log 20:04:08.3264625]: ActionMenu->Start
+[Log 20:04:08.3379453]: FlightEngineerCore->Start
+[Log 20:17:42.8926957]: ActionMenu->OnDestroy
+[Log 20:17:42.9365576]: FlightEngineerCore->OnDestroy
+[Log 20:17:44.9658609]: FlightEngineerCore->Awake
+[Log 20:17:48.4067317]: FlightEngineerCore->Start
+[Log 20:17:52.8381417]: FlightEngineerCore->OnDestroy
+[Log 20:25:41.8804649]: BuildAdvanced->OnDestroy
+[Log 20:25:43.7722293]: FlightEngineerCore->Awake
+[Log 20:25:48.6984969]: FlightEngineerCore->Start
+[Log 20:26:00.6312245]: FlightEngineerCore->OnDestroy
+[Log 20:26:02.3756590]: ActionMenu->Awake
+[Log 20:26:02.3756590]: FlightEngineerCore->Awake
+[Log 20:26:08.8274384]: ActionMenu->Start
+[Log 20:26:08.8408293]: FlightEngineerCore->Start
+[20:33:08.1068549]: Exception SimManager.StartSimulation() // System.NullReferenceException: Object reference not set to an instance of an object
+  at KerbalEngineer.VesselSimulator.SimManager.StartSimulation () [0x00054] in <134deb60e87843589b7ea1a020650b28>:0 
+[]:   at KerbalEngineer.VesselSimulator.SimManager.StartSimulation () [0x00054] in <134deb60e87843589b7ea1a020650b28>:0 
+
+[Log 20:33:09.9251073]: ActionMenu->OnDestroy
+[Log 20:33:09.9632052]: FlightEngineerCore->OnDestroy
+[Log 20:34:15.2686930]: BuildAdvanced->OnDestroy

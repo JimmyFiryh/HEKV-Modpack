@@ -1,0 +1,38 @@
+[BDArmory.BDACompetitionMode:179294310]: Dumping Results after 90s (of 0s) at 2025-09-06 04:03:51 -04:00
+[BDArmory.BDACompetitionMode:179294310]: RESULT:Win:{"team": "team floppa", "members": ["FH-102B-1 Naga", "FH-102B-1 Naga_1", "FH-102B-1 Naga_2"]}
+[BDArmory.BDACompetitionMode:179294310]: DEADTEAMS:[{"team": "team bingus", "members": ["DF-14 Poseidon II", "DF-14 Poseidon II_1", "DF-14 Poseidon II_2"]}]
+[BDArmory.BDACompetitionMode:179294310]: ALIVE:FH-102B-1 Naga
+[BDArmory.BDACompetitionMode:179294310]: ALIVE:FH-102B-1 Naga_1
+[BDArmory.BDACompetitionMode:179294310]: ALIVE:FH-102B-1 Naga_2
+[BDArmory.BDACompetitionMode:179294310]: DEAD:1:84.0:DF-14 Poseidon II
+[BDArmory.BDACompetitionMode:179294310]: DEAD:0:81.8:DF-14 Poseidon II_1
+[BDArmory.BDACompetitionMode:179294310]: DEAD:2:85.0:DF-14 Poseidon II_2
+[BDArmory.BDACompetitionMode:179294310]: WHOSHOTWHOWITHGUNS:DF-14 Poseidon II:8:FH-102B-1 Naga:17:FH-102B-1 Naga_2:14:FH-102B-1 Naga_1
+[BDArmory.BDACompetitionMode:179294310]: WHOSHOTWHOWITHGUNS:DF-14 Poseidon II_2:21:FH-102B-1 Naga_2
+[BDArmory.BDACompetitionMode:179294310]: WHOSHOTWHOWITHGUNS:FH-102B-1 Naga_1:2:DF-14 Poseidon II
+[BDArmory.BDACompetitionMode:179294310]: WHODAMAGEDWHOWITHGUNS:DF-14 Poseidon II:2866.6:FH-102B-1 Naga:5495.0:FH-102B-1 Naga_2:4572.6:FH-102B-1 Naga_1
+[BDArmory.BDACompetitionMode:179294310]: WHODAMAGEDWHOWITHGUNS:DF-14 Poseidon II_2:6919.8:FH-102B-1 Naga_2
+[BDArmory.BDACompetitionMode:179294310]: WHODAMAGEDWHOWITHGUNS:FH-102B-1 Naga_1:199.5:DF-14 Poseidon II
+[BDArmory.BDACompetitionMode:179294310]: WHOHITWHOWITHMISSILES:DF-14 Poseidon II_1:1:DF-14 Poseidon II
+[BDArmory.BDACompetitionMode:179294310]: WHOHITWHOWITHMISSILES:DF-14 Poseidon II_2:1:FH-102B-1 Naga_2
+[BDArmory.BDACompetitionMode:179294310]: WHOPARTSHITWHOWITHMISSILES:DF-14 Poseidon II_1:99:DF-14 Poseidon II
+[BDArmory.BDACompetitionMode:179294310]: WHOPARTSHITWHOWITHMISSILES:DF-14 Poseidon II_2:63:FH-102B-1 Naga_2
+[BDArmory.BDACompetitionMode:179294310]: WHODAMAGEDWHOWITHMISSILES:DF-14 Poseidon II_1:55950.2:DF-14 Poseidon II
+[BDArmory.BDACompetitionMode:179294310]: WHODAMAGEDWHOWITHMISSILES:DF-14 Poseidon II_2:39987.4:FH-102B-1 Naga_2
+[BDArmory.BDACompetitionMode:179294310]: WHODAMAGEDWHOWITHBATTLEDAMAGE:DF-14 Poseidon II:474.4:FH-102B-1 Naga:178.8:FH-102B-1 Naga_2:145.6:FH-102B-1 Naga_1
+[BDArmory.BDACompetitionMode:179294310]: WHODAMAGEDWHOWITHBATTLEDAMAGE:DF-14 Poseidon II_2:642.0:FH-102B-1 Naga_2:14737.3:DF-14 Poseidon II_2
+[BDArmory.BDACompetitionMode:179294310]: GMKILL:DF-14 Poseidon II_1:GM
+[BDArmory.BDACompetitionMode:179294310]: GMKILL:DF-14 Poseidon II_2:GM
+[BDArmory.BDACompetitionMode:179294310]: KILLSTEALGUNS:DF-14 Poseidon II:FH-102B-1 Naga_1
+[BDArmory.BDACompetitionMode:179294310]: HPLEFT:DF-14 Poseidon II:0
+[BDArmory.BDACompetitionMode:179294310]: HPLEFT:DF-14 Poseidon II_1:0
+[BDArmory.BDACompetitionMode:179294310]: HPLEFT:DF-14 Poseidon II_2:0
+[BDArmory.BDACompetitionMode:179294310]: HPLEFT:FH-102B-1 Naga:100
+[BDArmory.BDACompetitionMode:179294310]: HPLEFT:FH-102B-1 Naga_1:100
+[BDArmory.BDACompetitionMode:179294310]: HPLEFT:FH-102B-1 Naga_2:100
+[BDArmory.BDACompetitionMode:179294310]: ACCURACY:DF-14 Poseidon II:2/10:0/0
+[BDArmory.BDACompetitionMode:179294310]: ACCURACY:DF-14 Poseidon II_1:0/0:0/0
+[BDArmory.BDACompetitionMode:179294310]: ACCURACY:DF-14 Poseidon II_2:0/0:0/0
+[BDArmory.BDACompetitionMode:179294310]: ACCURACY:FH-102B-1 Naga:8/55:0/0
+[BDArmory.BDACompetitionMode:179294310]: ACCURACY:FH-102B-1 Naga_1:14/52:0/0
+[BDArmory.BDACompetitionMode:179294310]: ACCURACY:FH-102B-1 Naga_2:38/193:0/0

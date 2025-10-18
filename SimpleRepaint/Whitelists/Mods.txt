@@ -1,0 +1,82 @@
+//
+// Example whitelist
+// Only used if "RepaintWhitelistedPartsOnly" is set to "true" (see GameData/SimpleRepaint/Settings.cfg)
+//
+
+// Repaint parts from:
+//
+// AirplanesPlus mod
+@PART[elevon2b,smallwingConnector1,smallwingConnector2,smallwingConnector3,smallwingConnector4,smallwingConnector5,smallwingConnector6,smallwingConnectortip,hanglel,hangles,vanglel,vangles,bigwing,hlfSrf,migfin,warhawkfin,doublefowlerflap,fowlerflap,kruegerflap,spoilerflap,straightslat,roundwinglet,fatwing0,fatwing1,fatwing2,fatwing3,fatwing4,fatwing5,fatwing6,mk1intake,noseconemk1,stubbytinynose,tinynoseb]:NEEDS[AirplanePlus]:BEFORE[zzz_SimpleRepaint]
+{
+	%SR_Whitelisted = true
+}
+@PART[144cockpit,airbuscockpit,b29cockpit,bellcockpit,bombardiercockpit,cessnacabin,cessnacockpit,citationcockpit,concordecockpit,falconcockpit,fightercockpit,fighterinlinecockpit,mk3galaxy,herculescockpit,hipcockpit,hueycockpit,mk1DroneCore,mk1SasModule,oh6cockpit,oldfightercockpit,x1cockpit,zerocockpit]:NEEDS[AirplanePlus]:BEFORE[zzz_SimpleRepaint]
+{
+	%SR_Whitelisted = true
+}
+@PART[51prop,chaikaprop,fokkerprop,spadprop,hawkerprop,152Prop,609prop,cf34,cfm56,f5jet,herculesprop,KP12,predatorprop,raptorjet,tbmProp,109Prop,corsairprop,duplexcyclone,fighterProp,merlin,spitfiremerlin,yakprop,zeroprop,bellprop,belltail,blackhawkprop,chinookprop,coaxialprop,hipprop,hiptail,hueyprop,hueytail,powerprop,powertail]:NEEDS[AirplanePlus]:BEFORE[zzz_SimpleRepaint]
+{
+	%SR_Whitelisted = true
+}
+@PART[airramp,mk1cargodoor,mk1cargodoorjr,mk1dronedoor,passengeroor]:NEEDS[AirplanePlus]:BEFORE[zzz_SimpleRepaint]
+{
+	%SR_Whitelisted = true
+}
+@PART[s1p5booma,s1p5boomashort,s1p5boomb,s1p5boombshort,s1p5CrewCabin,s1p5door,s1p5hull,s1p5hulllong,miniboom,halfmini,minishortboom,JuniorFuselage,Mk1JuniorStructural,Mk1SlantStructural,mk2hAdapter,mk2hLiquid,mk2hboom,mk2mk2h,mk3s0,mk3s0booma,mk3s0boomb,mk3s0jr,mk3s0nose,mk3s0-s0,mk3s1,mk3s1booma,mk3s1boomb,mk3s1intake,mk3s1jr,mk3s1nose,mk3s1p5,mk3s1p5doorbase,mk3s1p5hull,mk3s1p5jr,mk3s1p5-mk3s1,mk3s1p5-s1p5,mk3s1-s1,s1p5,s1p5jr,shortboom,shortboomb,size2taila,size2tailashort,size2tailb,size2tailbshort,S2Hull,s2CargoRamp,s2cargobayS,size2under,size2CrewCabin,size2Fuselage,S2Structural]:NEEDS[AirplanePlus]:BEFORE[zzz_SimpleRepaint]
+{
+	%SR_Whitelisted = true
+}
+@PART[S1APU,S1p5APU,S2APU,navlight,landingskid]:NEEDS[AirplanePlus]:BEFORE[zzz_SimpleRepaint]
+{
+	%SR_Whitelisted = true
+}
+@PART[biplanegear,blackhawkgear,miggear,airbusreargear,herculesfrontgear,herculesgear,b29gear,fightergear,x1gear,x1sidegear,sidegear]:NEEDS[AirplanePlus]:BEFORE[zzz_SimpleRepaint]
+{
+	%SR_Whitelisted = true
+}
+
+// OPT mod
+@PART[AAengine,engine_darkDrive,opt_nebula_engine,opt_mk2_engine_short]:HAS[#author[K.Yeon]]:NEEDS[OPT]:BEFORE[zzz_SimpleRepaint]
+{
+	%SR_Whitelisted = true
+
+@PART[opt_vtol_jumpa*]:HAS[#author[K.Yeon]]:NEEDS[OPT]:BEFORE[zzz_SimpleRepaint]
+{
+	%SR_Whitelisted = true
+}
+@PART[opt_vtol_wrapj*]:HAS[#author[K.Yeon]]:NEEDS[OPT]:BEFORE[zzz_SimpleRepaint]
+{
+	%SR_Whitelisted = true
+}
+@PART[opt_vtol_wrapk*]:HAS[#author[K.Yeon]]:NEEDS[OPT]:BEFORE[zzz_SimpleRepaint]
+{
+	%SR_Whitelisted = true
+}
+@PART[h_*]:HAS[#author[K.Yeon]]:NEEDS[OPT]:BEFORE[zzz_SimpleRepaint]
+{
+	%SR_Whitelisted = true
+}
+@PART[i_*]:HAS[#author[K.Yeon]]:NEEDS[OPT]:BEFORE[zzz_SimpleRepaint]
+{
+	%SR_Whitelisted = true
+}
+@PART[ij_*]:HAS[#author[K.Yeon]]:NEEDS[OPT]:BEFORE[zzz_SimpleRepaint]
+{
+	%SR_Whitelisted = true
+}
+@PART[mk2j_adaptor,j_*]:HAS[#author[K.Yeon]]:NEEDS[OPT]:BEFORE[zzz_SimpleRepaint]
+{
+	%SR_Whitelisted = true
+
+@PART[jk_*]:HAS[#author[K.Yeon]]:NEEDS[OPT]:BEFORE[zzz_SimpleRepaint]
+{
+	%SR_Whitelisted = true
+}
+@PART[k_*]:HAS[#author[K.Yeon]]:NEEDS[OPT]:BEFORE[zzz_SimpleRepaint]
+{
+	%SR_Whitelisted = true
+}
+@PART[kh_*]:HAS[#author[K.Yeon]]:NEEDS[OPT]:BEFORE[zzz_SimpleRepaint]
+{
+	%SR_Whitelisted = true
+}

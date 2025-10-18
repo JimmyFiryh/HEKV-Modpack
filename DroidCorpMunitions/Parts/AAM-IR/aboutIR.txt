@@ -1,0 +1,3 @@
+InfraRed guided Air-to-Air Missiles use their own seeker head to track a target's heat signature for guidance. Their locking and tracking does not rely on the launching aircraft.
+
+Pilots use either a helmet aiming system or the physical turning of their aircraft to point the missile's seeker at the target, at which point it locks the heat source (if it is hot enough to register through the seeker, with farther distanced targets and front-facing targets having lower percieved heat levels) and is ready to fire. The missile will then guide itself to the target, providing it is not tricked into tracking a flare. Or the sun. Thankfully all missiles seem to be innately aware of the fact that Kerbol is never a pilot's desired target.

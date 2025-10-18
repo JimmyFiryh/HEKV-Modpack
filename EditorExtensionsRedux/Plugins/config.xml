@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ConfigData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <AnglesnapModIsToggle>true</AnglesnapModIsToggle>
+  <CycleSymmetryModeModIsToggle>true</CycleSymmetryModeModIsToggle>
+  <FileVersion>3.4.5.0</FileVersion>
+  <KeyMap>
+    <ResetCamera>Space</ResetCamera>
+    <ZoomSelected>KeypadPeriod</ZoomSelected>
+    <AttachmentMode>T</AttachmentMode>
+    <PartClipping>Z</PartClipping>
+    <HorizontalCenter>B</HorizontalCenter>
+    <VerticalSnap>V</VerticalSnap>
+    <HorizontalSnap>H</HorizontalSnap>
+    <ToggleReRoot>K</ToggleReRoot>
+    <ToggleNoOffsetLimit>L</ToggleNoOffsetLimit>
+    <StartMasterSnap>LeftControl</StartMasterSnap>
+    <CompoundPartAlign>U</CompoundPartAlign>
+    <Up>UpArrow</Up>
+    <Down>DownArrow</Down>
+    <Left>LeftArrow</Left>
+    <Right>RightArrow</Right>
+    <Forward>RightShift</Forward>
+    <Back>RightControl</Back>
+  </KeyMap>
+  <AngleSnapValues>
+    <float>0</float>
+    <float>15</float>
+  </AngleSnapValues>
+  <MaxSymmetry>20</MaxSymmetry>
+  <RapidZoom>true</RapidZoom>
+  <ReRootEnabled>true</ReRootEnabled>
+  <NoOffsetLimitEnabled>true</NoOffsetLimitEnabled>
+  <FineAdjustEnabled>true</FineAdjustEnabled>
+  <ShowDebugInfo>true</ShowDebugInfo>
+  <OnScreenMessageTime>1.5</OnScreenMessageTime>
+</ConfigData>

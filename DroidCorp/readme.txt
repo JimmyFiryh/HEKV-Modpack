@@ -1,0 +1,1 @@
+This version of DroidCorp exists to house patches from FJRT which are beneficial to PS, as well as the RCS Override parts and any other parts which are desired but do not belong in DCM.
