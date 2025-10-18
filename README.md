@@ -11,28 +11,35 @@ Does this violate licenses?
 Can you put paid content like Volumetric Clouds or CaptureTools on here?
 - I fart in your general direction. 
 
-If you would like to complain about licensing or this distribution existing, DM me @firyh on discord and we can work something out.
+If you would like to complain about licensing or this distribution existing, DM me @firyh on Discord and we can work something out.
 
 ---
 
 # Installation
 
-To install this modpack
+It is *recommended* but not strictly necessary to start with a fresh GameData, do the steps below, then add other mods in. You can absolutely do this with a filled GameData, but you may have to perform some extra steps (especially if you are a contributor.)
+
+To install this modpack:
 1. Download and install [GitHub Desktop](https://desktop.github.com/download/)
 2. Download the modpack's [Git HEAD](https://cdn.discordapp.com/attachments/366978046974230561/1428971097075749015/git.zip?ex=68f4708a&is=68f31f0a&hm=3159f0d913ca682395d84fe56f4d84a6aefe9d438e7ed6ff48b8a6aa186243e9&)
-3. Unzip and place the contained .git folder in your KSP install's GameData
+3. Unzip and place the contained .git folder in your KSP install's `GameData`
 4. Open GitHub Desktop (log in/create an account if necessary)
 5. Click `File --> Add a Local Repository`
-6. Click `Choose...`, navigate to your GameData folder and click `Select Folder`
+6. Click `Choose...`, navigate to your `GameData` folder and click `Select Folder`
 7. Click `Repository --> Fetch`
 8. Click the `Current branch: master` dropdown and select origin/Defkon2
+
+If you installed to a fresh `GameData`, you should be good to go.
+If you did not, or your GitHub Desktop UI shows a lot of **changed files**, do the the following:
+
+- Move *all* of your folders in your install's `GameData` to somewhere outside of it. Then move them back in.
+- If you still see a list of **changed files**, this is likely because you have a mod installed that is not flagged by my `.gitignore` file. Ping me @firyh on my [Discord](https://discord.gg/uEakYju) with what folders are showing and I will update it accordingly. 
 
 ## Updating
 
 To update this modpack (whenever one is announced for a new episode or fix patch)
 1. Open GitHub Desktop
-2. Navigate to the HEKV-Modpack repository
-3. Click "Pull Origin"
+2. Click "Pull Origin"
 
 ---
 
