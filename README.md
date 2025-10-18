@@ -18,18 +18,21 @@ If you would like to complain about licensing or this distribution existing, DM 
 # Installation
 
 To install this modpack
-1. Download [GitHub Desktop](https://desktop.github.com/download/)
-2. File --> Clone Repository
-3. Click `URL` on the top of that window
-4. Paste the url of this repo in the text entry (`https://github.com/JimmyFiryh/HEKV-Modpack`)
-5. Change the Local Path to your KSP GameData Directory (`.../KerbalSpaceProgram/GameData`)
-6. Click `Clone`
+1. Download and install [GitHub Desktop](https://desktop.github.com/download/)
+2. Download the modpack's [Git HEAD](https://cdn.discordapp.com/attachments/366978046974230561/1428971097075749015/git.zip?ex=68f4708a&is=68f31f0a&hm=3159f0d913ca682395d84fe56f4d84a6aefe9d438e7ed6ff48b8a6aa186243e9&)
+3. Unzip and place the contained .git folder in your KSP install's GameData
+4. Open GitHub Desktop (log in/create an account if necessary)
+5. Click `File --> Add a Local Repository`
+6. Click `Choose...`, navigate to your GameData folder and click `Select Folder`
+7. Click `Repository --> Fetch`
+8. Click the `Current branch: master` dropdown and select origin/Defkon2
 
 ## Updating
 
 To update this modpack (whenever one is announced for a new episode or fix patch)
 1. Open GitHub Desktop
-2. Click "Pull Origin"
+2. Navigate to the HEKV-Modpack repository
+3. Click "Pull Origin"
 
 ---
 
