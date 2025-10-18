@@ -17,7 +17,7 @@ If you would like to complain about licensing or this distribution existing, DM 
 
 # Installation
 
-It is *recommended* but not strictly necessary to start with a fresh GameData, do the steps below, then add other mods in. You can absolutely do this with a filled GameData, but you may have to perform some extra steps (especially if you are a contributor.)
+It is *recommended* but not strictly necessary to start with a fresh `GameData`, do the steps below, then add other mods in. You can absolutely do this with a filled `GameData`, but you may have to perform some extra steps (especially if you are a contributor.)
 
 To install this modpack:
 1. Download and install [GitHub Desktop](https://desktop.github.com/download/)
@@ -25,11 +25,13 @@ To install this modpack:
 3. Unzip and place the contained .git folder in your KSP install's `GameData`
 4. Open GitHub Desktop (log in/create an account if necessary)
 5. Click `File --> Add a Local Repository`
-6. Click `Choose...`, navigate to your `GameData` folder and click `Select Folder`
-7. Click `Repository --> Fetch`
-8. Click the `Current branch: master` dropdown and select origin/Defkon2
+6. Click `Choose...`, navigate to your `GameData` folder.
+7. Click `Select Folder` then `Add Repository`
+8. Click `Repository --> Fetch`
+9. Click the `Current branch: master` dropdown and select origin/Defkon2
 
 If you installed to a fresh `GameData`, you should be good to go.
+__OPTIONAL__
 If you did not, or your GitHub Desktop UI shows a lot of **changed files**, do the the following:
 
 - Move *all* of your folders in your install's `GameData` to somewhere outside of it. Then move them back in.
