@@ -37,4 +37,4 @@ To update this modpack (whenever one is announced for a new episode or fix patch
 
 This is the modpack for Defkon 2, excluding visual mods.
 
-For visual mods, support, or complaints, yell at me on discord at https://discord.gg/uEakYju or DM either @firyh or @android_elite
+For visual mods, support, or complaints, yell at me on my [Discord](https://discord.gg/uEakYju) or DM either @firyh or @android_elite
