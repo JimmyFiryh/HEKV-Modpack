@@ -1,4 +1,7 @@
 ___UnityDropFolder/
+__UnityDropDirectory/
+AmazingCurveEditor/
+BoxOfStardust/
 CaptureTools/
 CorrectCOL/
 Daeson_Heavy_Industries/
@@ -9,6 +12,12 @@ JimmyTemp/
 KerbalPowers/
 KFC/
 LoadingScreenManager/
+
+Parallax_StockPlanetTextures/
+Parallax_StockScatterTextures/
+Parallax_StockTerrainTextures/
+ParallaxContinued/
+Pilot Assistant/
 PlanetShine/
 Scatterer/
 ScattererAtmosphereCache/
@@ -20,3 +29,4 @@ SXT/
 TUFX/
 TwinCrownAerospace/
 UnityExplorerKSP/
+zzz_Deferred/
