@@ -24,10 +24,10 @@ To install this modpack:
 4. Enter `https://github.com/JimmyFiryh/HEKV-Modpack` 
 5. Click `Choose...` and pick your empty `GameData` directory
 
-***IMPORTANT*** - Before clicking `Clone` you MUST do the following:
+***IMPORTANT*** - Before clicking `Clone` you MUST do Step 6:
 
 6. In `Local Path`, Delete `/HEKV-Modpack` from the end so that the directory *actually* terminates at `GameData`, and not `GameData/HEKV-Modpack`
-7. Click `Clone`
+7. Now click `Clone`
 8. Grab your **NON-Conflicting** mod folders & Squad and move them back into `GameData` (This will mainly be VisMods and extra stuff.)
 
 ***IMPORTANT*** - Do not overwrite mods included in the repository
