@@ -17,8 +17,6 @@ If you would like to complain about licensing or this distribution existing, DM 
 
 # Installation
 
-It is *recommended* but not strictly necessary to start with a fresh `GameData`, do the steps below, then add other mods in. You can absolutely do this with a filled `GameData`, but you may have to perform some extra steps (especially if you are a contributor.)
-
 To install this modpack:
 1. *Move* ALL of your folders (including Squad) out of your `GameData` to a safe location.
 2. Download and install [GitHub Desktop](https://desktop.github.com/download/)
