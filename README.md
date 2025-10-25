@@ -32,7 +32,7 @@ To install this modpack:
 
 ***IMPORTANT*** - Do not overwrite mod folders included in the repository
 
-Note: There is a .gitignore file that will explicitly ignore files not intended as part of the main modpack, but it is non-exhaustive. If you see a diff log ("[x] changed files" in GitHub Desktop) this is not a concern and will not interfere with updates. Only if you are contributing to the pack do you need to make sure this is clear. If you are, you can get in contact or make a PR updating the .gitignore
+Note: You absolutely can install personal mods or other mods with this repo active. There is a .gitignore file that will explicitly ignore files not intended as part of the main modpack, but it is non-exhaustive. If you see a diff log ("[x] changed files" in GitHub Desktop) this is not a concern and will not interfere with updates. Only if you are contributing to the pack do you need to make sure this is clear. If you are, you can get in contact or make a PR updating the .gitignore
 
 ## Updating
 
