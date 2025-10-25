@@ -20,22 +20,17 @@ If you would like to complain about licensing or this distribution existing, DM 
 It is *recommended* but not strictly necessary to start with a fresh `GameData`, do the steps below, then add other mods in. You can absolutely do this with a filled `GameData`, but you may have to perform some extra steps (especially if you are a contributor.)
 
 To install this modpack:
-1. Download and install [GitHub Desktop](https://desktop.github.com/download/)
-2. Download the modpack's [Git HEAD](https://cdn.discordapp.com/attachments/366978046974230561/1428971097075749015/git.zip?ex=68f4708a&is=68f31f0a&hm=3159f0d913ca682395d84fe56f4d84a6aefe9d438e7ed6ff48b8a6aa186243e9&)
-3. Unzip and place the contained .git folder in your KSP install's `GameData`
-4. Open GitHub Desktop (log in/create an account if necessary)
-5. Click `File --> Add a Local Repository`
-6. Click `Choose...`, navigate to your `GameData` folder.
-7. Click `Select Folder` then `Add Repository`
-8. Click `Repository --> Fetch`
-9. Click the `Current branch: master` dropdown and select origin/Defkon2
+1. *Move* ALL of your folders (including Squad) out of your `GameData` to a safe location.
+2. Download and install [GitHub Desktop](https://desktop.github.com/download/)
+3. Click `File --> Clone a repository` then the `URL` tab
+4. Enter `https://github.com/JimmyFiryh/HEKV-Modpack` 
+5. Click `Choose...` and pick your empty `GameData` directory
+***IMPORTANT*** - Ensure that the directory *actually* terminates at `GameData`, and not `GameData/HEKV-Modpack`
+6. Click `Clone`
+7. Grab your **NON-Conflicting** mod folders & Squad and move them back into `GameData` (This will mainly be VisMods and extra stuff.)
+***IMPORTANT*** - Do not overwrite mods included in the repository
 
-If you installed to a fresh `GameData`, you should be good to go.
-__OPTIONAL__
-If you did not, or your GitHub Desktop UI shows a lot of **changed files**, do the the following:
-
-- Move *all* of your folders in your install's `GameData` to somewhere outside of it. Then move them back in.
-- If you still see a list of **changed files**, this is likely because you have a mod installed that is not flagged by my `.gitignore` file. Ping me @firyh on my [Discord](https://discord.gg/uEakYju) with what folders are showing and I will update it accordingly. 
+Note: There is a .gitignore file that will explicitly ignore files not intended as part of the main modpack, but it is non-exhaustive. If you see a diff log ("[x] changed files" in GitHub Desktop) this is not a concern and will not interfere with updates. Only if you are contributing to the pack do you need to make sure this is clear. If you are, you can get in contact or make a PR updating the .gitignore
 
 ## Updating
 
