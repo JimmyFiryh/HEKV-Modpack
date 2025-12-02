@@ -19,6 +19,9 @@ If you would like to complain about licensing or this distribution existing, DM 
 
 To install this modpack:
 1. *Move* ***(DO NOT DELETE OR COPY)*** all of your folders (including Squad) out of your `GameData` to a safe location.
+
+***IMPORTANT*** - Your GameData must be *fully empty* for the installation to work.
+
 2. Download and install [GitHub Desktop](https://desktop.github.com/download/)
 3. Click `File --> Clone a repository` then the `URL` tab
 4. Enter `https://github.com/JimmyFiryh/HEKV-Modpack` 
