@@ -41,7 +41,8 @@ Note: You absolutely can install personal mods or other mods with this repo acti
 
 To update this modpack (whenever one is announced for a new episode or fix patch)
 1. Open GitHub Desktop
-2. Click "Pull Origin"
+2. Click "Fetch Origin" (This may not be needed, in which case go to step 3)
+3. Click "Pull Origin"
 
 ---
 
