@@ -2,11 +2,11 @@
 <ArrayOfSettingItem xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SettingItem>
     <Name>hidden</Name>
-    <Value xsi:type="xsd:boolean">true</Value>
+    <Value xsi:type="xsd:boolean">false</Value>
   </SettingItem>
   <SettingItem>
     <Name>showControlBar</Name>
-    <Value xsi:type="xsd:boolean">false</Value>
+    <Value xsi:type="xsd:boolean">true</Value>
   </SettingItem>
   <SettingItem>
     <Name>windowPositionX</Name>

@@ -6,6 +6,6 @@
   </SettingItem>
   <SettingItem>
     <Name>increment</Name>
-    <Value xsi:type="xsd:int">8</Value>
+    <Value xsi:type="xsd:int">5</Value>
   </SettingItem>
 </ArrayOfSettingItem>

@@ -14,14 +14,14 @@
   </SettingItem>
   <SettingItem>
     <Name>vesselOpen</Name>
-    <Value xsi:type="xsd:boolean">false</Value>
+    <Value xsi:type="xsd:boolean">true</Value>
   </SettingItem>
   <SettingItem>
     <Name>resourcesOpen</Name>
-    <Value xsi:type="xsd:boolean">false</Value>
+    <Value xsi:type="xsd:boolean">true</Value>
   </SettingItem>
   <SettingItem>
     <Name>vesselWindowX</Name>
-    <Value xsi:type="xsd:float">523</Value>
+    <Value xsi:type="xsd:float">420</Value>
   </SettingItem>
 </ArrayOfSettingItem>

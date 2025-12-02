@@ -24,7 +24,14 @@
   </KeyMap>
   <AngleSnapValues>
     <float>0</float>
+    <float>1</float>
+    <float>5</float>
     <float>15</float>
+    <float>22.5</float>
+    <float>30</float>
+    <float>45</float>
+    <float>60</float>
+    <float>90</float>
   </AngleSnapValues>
   <MaxSymmetry>20</MaxSymmetry>
   <RapidZoom>true</RapidZoom>

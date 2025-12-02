@@ -1,0 +1,158 @@
+# __***Project: Showdown* Round 5 Update**__
+Rounds 1-4 revealed multiple issues people were having with the current meta of PSC, and the imminent convergence of optimal design spurred radical new change for the competition. Hopefully, this will be for the better. Nearly every single part in PSC has been touched in some way. Some equipment has been overhauled completely. PSR has also received a major expansion, adding new nations with new parts to the comp. 
+
+## __**General Updates**__
+
+### __Dry Mass Update__
+Missiles *NO LONGER* count towards Dry Mass. Remove your missiles before inputting Dry Mass to calculate LtW and RCS!!! You will be DQ'ed for having incorrect LtW. 
+
+### __KSP Community Fixes__
+A new version of KSPCF is included, supposedly boasting additional framerate gains. 
+
+
+## __***Classic* Updates**__
+
+### __Additional Ammo Boxes__
+- Count Limit		1 --> 4
+
+### __Gun Updates__
+__U10 Strydor__
+- Points 		12 --> 14
+- TNT Mass 		0.01988 --> 0.02219
+
+__U9 Ignitor__
+- Points 		14 --> 17
+- TNT Mass 		0.07229 --> 0.8861
+- Count Limit 		2 --> 1
+
+__U12 Eclipsor__
+- Points 		16 --> 20
+- TNT Mass 		0.01138 --> 0.01678
+
+__X3 Piercer__
+- Points 		18 --> 30
+- Bullet Mass 		0.7 --> 0.12
+- Guidance DPS 		0 --> 1
+- Fire Rate (RPM)	30 --> 60
+- HVEC /Shot		200 --> 100
+- APMod			10 --> 2
+***NOTE:*** The guided shells are currently not working. There will be a hotfix sometime soon. 
+
+### __Engines__
+
+__GPLG-7530-04 Jaesto__
+- Points 		30 --> 10
+- Count Limit 		1 --> 2
+
+__GPMG-2330-11 Kythe__
+- Points 		17 --> 5
+- Count Limit 		2 --> 3
+
+__GPLG-3900-56 Hael, GPMG-2330-24 Kythe, GPMG-2470-09 Lash__
+- Points 		VAR --> 0
+- Count Limit 		2 --> 3
+
+__GPMG-2470-27 Lash__
+- Points		13 --> 0
+- Count Limit 		2 --> 3
+- Wet Isp		5000s --> 4500s
+
+__GPSG-4800-03 Phisk__
+- Points 		9 --> 0
+- Count Limit 		3 --> 4
+
+### __Missiles__
+
+__KN-304 Corvyl__
+- Points 		2 --> 3
+- Max Off-Boresight 	90 --> 45
+- IRCCM 		Slightly Improved
+
+__KN-306 Corvyl__
+- Points 		3 --> 5
+- Max Off-Boresight 	90 --> 45
+- IRCCM 		Improved
+
+__KN-313 Corvyl__
+- Points 		4 --> 6
+- Max Off-Boresight 	120 --> 45
+- IRCCM 		Quite Improved
+
+__KN-320 Corvyl__
+- Points 		6 --> 9
+- Max Off-Boresight 	120 --> 45
+- IRCCM 		Heavily Improved
+
+__KN-505 Iridon__
+- Points 		5 --> 7
+- Max Off-Boresight 	60 --> 30
+- IRCCM 		Improved
+
+__KN-515 Iridon__
+- Points 		7 --> 9
+- Max Off-Boresight 	60 --> 30
+- IRCCM 		Improved
+
+### __Every Other Points Change__
+
+KR-223 Rinsett		6  --> 7
+KR-241 Rinsett		8  --> 9
+KR-840 Flynx		7  --> 8
+KR-853 Flynx		9  --> 10
+KR-865 Flynx		12 --> 14
+
+LHX-39 Sear		8  --> 10
+LHX-45 Sentanir		12 --> 15
+LHX-48 Ventrix		16 --> 20
+SRH-20 KNSR		5  --> 7
+
+TH/TK-5 Wallop		10 --> 12
+
+
+---
+
+
+The *Project: Showdown* [Loadout Designer](https://docs.google.com/spreadsheets/d/17ILN_WSUIfgaBxiRAscblm4habXRTZxUiC2-2AROvM0/edit?usp=sharing) has been updated to Version 1.3.0. Please make a new copy to have the new changes. 
+
+
+
+
+@Fighter Jet Gang Patch for Round 5 is LIVE. Changelog is above. Please read it. 
+
+Here are the links to the updates you need for Round 5. Included is both a **Patch** for existing installs, and a **Full Install** for those joining us now and beyond. 
+
+For the **Patch**, please ***DELETE AND REPLACE*** the included GameData folders. 
+
+- [Round 5 Patch](https://drive.google.com/file/d/13mzFVDiB6Zsxk80d6U2Xt4hAZ1ZA5FOL/view?usp=sharing)
+- [Round 5 Full Install](https://drive.google.com/file/d/1D21A1wt8zq7iMdFjdECFcYl7fA_HjILU/view?usp=sharing)
+- [*Project: Showdown* Visual Mods](https://drive.google.com/file/d/1Nj6lqsC_I9v4ZDjkhULMWgzTZus9pq_F/view?usp=sharing)
+
+Submission for Round 5 are due <t:1731819599:F> (<t:1731819599:R>)
+
+Here are all the relevant links to *Project: Showdown* source material:
+- [*Project: Showdown* Rules](https://docs.google.com/document/d/1Xshf5ldWH5R2-hy070e5G390ZvgEE7LtxA12yd_spSw/edit?usp=sharing)
+- [*Project: Showdown* Loadout Designer V1.3.0](https://docs.google.com/spreadsheets/d/17ILN_WSUIfgaBxiRAscblm4habXRTZxUiC2-2AROvM0/edit?usp=sharing)
+- [*Project: Showdown Classic* Encyclopedia](https://docs.google.com/document/d/1slFfEsBhzCDE5M_cw8ECrvYSQO18iDh4PRDfGpvMHSc/edit?usp=sharing)
+- [*Project: Showdown Classic* Part Raw Stats Spreadsheet](https://docs.google.com/spreadsheets/d/1JlWZGaGQjk9XsZnJVKOP6U2IF8Xk7i7gmIfwlcypJ7g/edit?usp=sharing)
+
+
+
+
+@FJG
+## 1 Hour Build Challenge starts <t:1730593800:R>!
+Start filing into **Radio X** now! The build challenge timer starts at <t:1730593800:t> ***on the dot.***
+The competition will not be waiting for you to show up late! Show up now, get the patch posted below, and boot your game. 
+
+# PS Patch 11-2-2024
+An emergency hotfix to accomplish a couple things:
+
+__BDA Global Damage Mult Fix__
+For reasons unbeknownst to me, the global damage multiplier was set to 50. It has now been corrected to 150. 
+
+__X3 Piercer Guided Shells__
+The X3 Piercer has been given its guided shells, and correct damage numbers. Have fun!
+
+__*Retro* Missile Guidance Mode__
+Re-added ProNav guidance to all *Retro* missiles, except only as a terminal phase which allows them to achieve more optimal lead angles. (thanks to BillNye for the help)
+
+For this **Patch**, please ***DELETE AND REPLACE*** the included GameData folders.

@@ -261,46 +261,10 @@
       </SectionModule>
       <SectionModule>
         <showButton>false</showButton>
-        <Abbreviation>TAC</Abbreviation>
+        <Abbreviation>HUD 1</Abbreviation>
         <EditorPositionX>994</EditorPositionX>
         <EditorPositionY>448</EditorPositionY>
-        <FloatingPositionX>2136</FloatingPositionX>
-        <FloatingPositionY>8</FloatingPositionY>
-        <showEditButton>true</showEditButton>
-        <showFloatButton>true</showFloatButton>
-        <IsEditorVisible>false</IsEditorVisible>
-        <IsFloating>true</IsFloating>
-        <IsHud>true</IsHud>
-        <IsDeleted>false</IsDeleted>
-        <IsHudBackground>false</IsHudBackground>
-        <IsVisible>true</IsVisible>
-        <LineCount>13</LineCount>
-        <Name>TAC ANALYSIS</Name>
-        <ReadoutModuleNames>
-          <string>Vessel.Name</string>
-          <string>Miscellaneous.Separator</string>
-          <string>Vessel.PartCount</string>
-          <string>Vessel.Mass</string>
-          <string>Vessel.DeltaVCurrent</string>
-          <string>Vessel.IntakeAirDemandSupply</string>
-          <string>Miscellaneous.ClearSeparator</string>
-          <string>Surface.HorizontalSpeed</string>
-          <string>Surface.MachNumber</string>
-          <string>Surface.VerticalSpeed</string>
-          <string>Surface.AltitudeTerrain</string>
-          <string>Miscellaneous.ClearSeparator</string>
-          <string>Vessel.ThrustToWeight</string>
-          <string>Vessel.Thrust</string>
-          <string>Vessel.Acceleration</string>
-          <string>Surface.GeeForce</string>
-        </ReadoutModuleNames>
-      </SectionModule>
-      <SectionModule>
-        <showButton>false</showButton>
-        <Abbreviation>HUD 2</Abbreviation>
-        <EditorPositionX>968</EditorPositionX>
-        <EditorPositionY>411</EditorPositionY>
-        <FloatingPositionX>1165</FloatingPositionX>
+        <FloatingPositionX>1132.6001</FloatingPositionX>
         <FloatingPositionY>0</FloatingPositionY>
         <showEditButton>true</showEditButton>
         <showFloatButton>true</showFloatButton>
@@ -309,7 +273,36 @@
         <IsHud>true</IsHud>
         <IsDeleted>false</IsDeleted>
         <IsHudBackground>false</IsHudBackground>
-        <IsVisible>false</IsVisible>
+        <IsVisible>true</IsVisible>
+        <LineCount>8</LineCount>
+        <Name>HUD 1</Name>
+        <ReadoutModuleNames>
+          <string>Vessel.Name</string>
+          <string>Miscellaneous.Separator</string>
+          <string>Surface.ImpactTime</string>
+          <string>Orbital.ApoapsisHeight</string>
+          <string>Orbital.PeriapsisHeight</string>
+          <string>Orbital.TimeToApoapsis</string>
+          <string>Vessel.DeltaVCurrent</string>
+          <string>Vessel.Mass</string>
+          <string>Vessel.PartCount</string>
+        </ReadoutModuleNames>
+      </SectionModule>
+      <SectionModule>
+        <showButton>false</showButton>
+        <Abbreviation>HUD 2</Abbreviation>
+        <EditorPositionX>1909</EditorPositionX>
+        <EditorPositionY>386</EditorPositionY>
+        <FloatingPositionX>2039</FloatingPositionX>
+        <FloatingPositionY>0</FloatingPositionY>
+        <showEditButton>true</showEditButton>
+        <showFloatButton>true</showFloatButton>
+        <IsEditorVisible>false</IsEditorVisible>
+        <IsFloating>true</IsFloating>
+        <IsHud>true</IsHud>
+        <IsDeleted>false</IsDeleted>
+        <IsHudBackground>false</IsHudBackground>
+        <IsVisible>true</IsVisible>
         <LineCount>9</LineCount>
         <Name>HUD 2</Name>
         <ReadoutModuleNames>
