@@ -25,7 +25,7 @@ To install this modpack:
 2. Download and install [GitHub Desktop](https://desktop.github.com/download/)
 3. Click `File --> Clone a repository` then the `URL` tab
 4. Enter `https://github.com/JimmyFiryh/HEKV-Modpack` 
-5. Click `Choose...` and pick your empty `GameData` directory
+5. Click `Choose...` and pick your empty `GameData` directory, DO NOT CLICK CLONE YET!
 
 ***IMPORTANT*** - Before clicking `Clone` you MUST do Step 6:
 
