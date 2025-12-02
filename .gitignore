@@ -35,3 +35,9 @@ TwinCrownAerospace/
 UnityExplorerKSP/
 ZTheme/
 zzz_Deferred/
+
+
+ModuleManager.ConfigCache
+ModuleManager.ConfigSHA
+ModuleManager.Physics
+ModuleManager.TechTree
