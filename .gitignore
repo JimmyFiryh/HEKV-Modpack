@@ -45,3 +45,6 @@ ModuleManager.ConfigCache
 ModuleManager.ConfigSHA
 ModuleManager.Physics
 ModuleManager.TechTree
+
+!TweakScale/patches/Squad/
+!TweakScale/patches/SquadExpansion/
