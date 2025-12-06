@@ -1,0 +1,49 @@
+[BDArmory.BDACompetitionMode:187148718]: Dumping Results after 178s (of 0s) at 2025-12-06 01:50:40 -05:00
+[BDArmory.BDACompetitionMode:187148718]: RESULT:Mutual Annihilation
+[BDArmory.BDACompetitionMode:187148718]: DEADTEAMS:[{"team": "Team A", "members": ["KMX-08E3 Sagitta II", "KMX-08E3 Sagitta II_1", "KMX-08E3 Sagitta II_2"]}, {"team": "Team B", "members": ["YF-18E Super Hornet", "YF-18E Super Hornet_1", "YF-18E Super Hornet_2"]}]
+[BDArmory.BDACompetitionMode:187148718]: DEAD:0:58.0:KMX-08E3 Sagitta II
+[BDArmory.BDACompetitionMode:187148718]: DEAD:4:171.0:KMX-08E3 Sagitta II_1
+[BDArmory.BDACompetitionMode:187148718]: DEAD:2:137.0:KMX-08E3 Sagitta II_2
+[BDArmory.BDACompetitionMode:187148718]: DEAD:3:146.0:YF-18E Super Hornet
+[BDArmory.BDACompetitionMode:187148718]: DEAD:5:174.0:YF-18E Super Hornet_1
+[BDArmory.BDACompetitionMode:187148718]: DEAD:1:73.0:YF-18E Super Hornet_2
+[BDArmory.BDACompetitionMode:187148718]: WHOSHOTWHOWITHGUNS:KMX-08E3 Sagitta II_1:7:YF-18E Super Hornet
+[BDArmory.BDACompetitionMode:187148718]: WHOSHOTWHOWITHGUNS:KMX-08E3 Sagitta II_2:69:YF-18E Super Hornet_1
+[BDArmory.BDACompetitionMode:187148718]: WHOSHOTWHOWITHGUNS:YF-18E Super Hornet:4:KMX-08E3 Sagitta II_2
+[BDArmory.BDACompetitionMode:187148718]: WHOSHOTWHOWITHGUNS:YF-18E Super Hornet_1:4:KMX-08E3 Sagitta II_1
+[BDArmory.BDACompetitionMode:187148718]: WHODAMAGEDWHOWITHGUNS:KMX-08E3 Sagitta II_1:903.9:YF-18E Super Hornet
+[BDArmory.BDACompetitionMode:187148718]: WHODAMAGEDWHOWITHGUNS:KMX-08E3 Sagitta II_2:5906.2:YF-18E Super Hornet_1
+[BDArmory.BDACompetitionMode:187148718]: WHODAMAGEDWHOWITHGUNS:YF-18E Super Hornet:1617.3:KMX-08E3 Sagitta II_2
+[BDArmory.BDACompetitionMode:187148718]: WHODAMAGEDWHOWITHGUNS:YF-18E Super Hornet_1:1592.5:KMX-08E3 Sagitta II_1
+[BDArmory.BDACompetitionMode:187148718]: WHOHITWHOWITHMISSILES:KMX-08E3 Sagitta II:1:YF-18E Super Hornet_2:1:YF-18E Super Hornet_1
+[BDArmory.BDACompetitionMode:187148718]: WHOHITWHOWITHMISSILES:KMX-08E3 Sagitta II_1:1:YF-18E Super Hornet_1:2:YF-18E Super Hornet
+[BDArmory.BDACompetitionMode:187148718]: WHOHITWHOWITHMISSILES:KMX-08E3 Sagitta II_2:1:YF-18E Super Hornet_2
+[BDArmory.BDACompetitionMode:187148718]: WHOHITWHOWITHMISSILES:YF-18E Super Hornet_2:1:KMX-08E3 Sagitta II_2
+[BDArmory.BDACompetitionMode:187148718]: WHOPARTSHITWHOWITHMISSILES:KMX-08E3 Sagitta II:65:YF-18E Super Hornet_2:35:YF-18E Super Hornet_1
+[BDArmory.BDACompetitionMode:187148718]: WHOPARTSHITWHOWITHMISSILES:KMX-08E3 Sagitta II_1:63:YF-18E Super Hornet_1:120:YF-18E Super Hornet
+[BDArmory.BDACompetitionMode:187148718]: WHOPARTSHITWHOWITHMISSILES:KMX-08E3 Sagitta II_2:50:YF-18E Super Hornet_2
+[BDArmory.BDACompetitionMode:187148718]: WHOPARTSHITWHOWITHMISSILES:YF-18E Super Hornet_2:118:KMX-08E3 Sagitta II_2
+[BDArmory.BDACompetitionMode:187148718]: WHODAMAGEDWHOWITHMISSILES:KMX-08E3 Sagitta II:32769.1:YF-18E Super Hornet_2:22841.1:YF-18E Super Hornet_1
+[BDArmory.BDACompetitionMode:187148718]: WHODAMAGEDWHOWITHMISSILES:KMX-08E3 Sagitta II_1:12197.3:YF-18E Super Hornet
+[BDArmory.BDACompetitionMode:187148718]: WHODAMAGEDWHOWITHMISSILES:YF-18E Super Hornet_2:1915.0:KMX-08E3 Sagitta II_2
+[BDArmory.BDACompetitionMode:187148718]: WHORAMMEDWHO:KMX-08E3 Sagitta II_2:3:YF-18E Super Hornet
+[BDArmory.BDACompetitionMode:187148718]: WHORAMMEDWHO:YF-18E Super Hornet:32:KMX-08E3 Sagitta II_2
+[BDArmory.BDACompetitionMode:187148718]: WHODAMAGEDWHOWITHBATTLEDAMAGE:KMX-08E3 Sagitta II_2:338.8:YF-18E Super Hornet_1:12960.2:KMX-08E3 Sagitta II_2
+[BDArmory.BDACompetitionMode:187148718]: WHODAMAGEDWHOWITHBATTLEDAMAGE:YF-18E Super Hornet_1:80.4:KMX-08E3 Sagitta II_1
+[BDArmory.BDACompetitionMode:187148718]: GMKILL:KMX-08E3 Sagitta II_1:LandedTooLong
+[BDArmory.BDACompetitionMode:187148718]: GMKILL:YF-18E Super Hornet:LandedTooLong
+[BDArmory.BDACompetitionMode:187148718]: GMKILL:YF-18E Super Hornet_1:LandedTooLong
+[BDArmory.BDACompetitionMode:187148718]: HEADSHOTGUNS:KMX-08E3 Sagitta II_2:YF-18E Super Hornet_1
+[BDArmory.BDACompetitionMode:187148718]: CLEANKILLMISSILES:YF-18E Super Hornet_2:KMX-08E3 Sagitta II_2
+[BDArmory.BDACompetitionMode:187148718]: HPLEFT:KMX-08E3 Sagitta II:0
+[BDArmory.BDACompetitionMode:187148718]: HPLEFT:KMX-08E3 Sagitta II_1:0
+[BDArmory.BDACompetitionMode:187148718]: HPLEFT:KMX-08E3 Sagitta II_2:0
+[BDArmory.BDACompetitionMode:187148718]: HPLEFT:YF-18E Super Hornet:0
+[BDArmory.BDACompetitionMode:187148718]: HPLEFT:YF-18E Super Hornet_1:0
+[BDArmory.BDACompetitionMode:187148718]: HPLEFT:YF-18E Super Hornet_2:0
+[BDArmory.BDACompetitionMode:187148718]: ACCURACY:KMX-08E3 Sagitta II:0/0:0/0
+[BDArmory.BDACompetitionMode:187148718]: ACCURACY:KMX-08E3 Sagitta II_1:4/5:0/0
+[BDArmory.BDACompetitionMode:187148718]: ACCURACY:KMX-08E3 Sagitta II_2:4/14:0/0
+[BDArmory.BDACompetitionMode:187148718]: ACCURACY:YF-18E Super Hornet:7/26:0/0
+[BDArmory.BDACompetitionMode:187148718]: ACCURACY:YF-18E Super Hornet_1:69/141:0/0
+[BDArmory.BDACompetitionMode:187148718]: ACCURACY:YF-18E Super Hornet_2:0/0:0/0

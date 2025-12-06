@@ -1,0 +1,45 @@
+[BDArmory.BDACompetitionMode:187148211]: Dumping Results after 176s (of 0s) at 2025-12-06 01:43:44 -05:00
+[BDArmory.BDACompetitionMode:187148211]: RESULT:Win:{"team": "Team A", "members": ["Geist-I/M mk.Ib", "Geist-I/M mk.Ib_1", "Geist-I/M mk.Ib_2"]}
+[BDArmory.BDACompetitionMode:187148211]: DEADTEAMS:[{"team": "Team B", "members": ["MiG-23ML", "MiG-23ML_1", "MiG-23ML_2"]}]
+[BDArmory.BDACompetitionMode:187148211]: ALIVE:Geist-I/M mk.Ib
+[BDArmory.BDACompetitionMode:187148211]: ALIVE:Geist-I/M mk.Ib_1
+[BDArmory.BDACompetitionMode:187148211]: DEAD:0:121.7:MiG-23ML
+[BDArmory.BDACompetitionMode:187148211]: DEAD:3:169.0:MiG-23ML_1
+[BDArmory.BDACompetitionMode:187148211]: DEAD:1:157.0:MiG-23ML_2
+[BDArmory.BDACompetitionMode:187148211]: DEAD:2:164.0:Geist-I/M mk.Ib_2
+[BDArmory.BDACompetitionMode:187148211]: WHOSHOTWHOWITHGUNS:MiG-23ML:16:Geist-I/M mk.Ib_2:8:Geist-I/M mk.Ib_1:30:Geist-I/M mk.Ib
+[BDArmory.BDACompetitionMode:187148211]: WHOSHOTWHOWITHGUNS:MiG-23ML_1:44:Geist-I/M mk.Ib_2
+[BDArmory.BDACompetitionMode:187148211]: WHOSHOTWHOWITHGUNS:MiG-23ML_2:38:Geist-I/M mk.Ib
+[BDArmory.BDACompetitionMode:187148211]: WHODAMAGEDWHOWITHGUNS:MiG-23ML:1598.2:Geist-I/M mk.Ib_2:853.6:Geist-I/M mk.Ib_1:1847.3:Geist-I/M mk.Ib
+[BDArmory.BDACompetitionMode:187148211]: WHODAMAGEDWHOWITHGUNS:MiG-23ML_1:3986.2:Geist-I/M mk.Ib_2
+[BDArmory.BDACompetitionMode:187148211]: WHODAMAGEDWHOWITHGUNS:MiG-23ML_2:3833.9:Geist-I/M mk.Ib
+[BDArmory.BDACompetitionMode:187148211]: WHOHITWHOWITHMISSILES:MiG-23ML_1:2:Geist-I/M mk.Ib:1:Geist-I/M mk.Ib_1
+[BDArmory.BDACompetitionMode:187148211]: WHOHITWHOWITHMISSILES:MiG-23ML_2:1:Geist-I/M mk.Ib
+[BDArmory.BDACompetitionMode:187148211]: WHOHITWHOWITHMISSILES:Geist-I/M mk.Ib_1:1:MiG-23ML_2
+[BDArmory.BDACompetitionMode:187148211]: WHOHITWHOWITHMISSILES:Geist-I/M mk.Ib_2:1:MiG-23ML_2
+[BDArmory.BDACompetitionMode:187148211]: WHOPARTSHITWHOWITHMISSILES:MiG-23ML_1:114:Geist-I/M mk.Ib:58:Geist-I/M mk.Ib_1
+[BDArmory.BDACompetitionMode:187148211]: WHOPARTSHITWHOWITHMISSILES:MiG-23ML_2:71:Geist-I/M mk.Ib
+[BDArmory.BDACompetitionMode:187148211]: WHOPARTSHITWHOWITHMISSILES:Geist-I/M mk.Ib_1:102:MiG-23ML_2
+[BDArmory.BDACompetitionMode:187148211]: WHOPARTSHITWHOWITHMISSILES:Geist-I/M mk.Ib_2:100:MiG-23ML_2
+[BDArmory.BDACompetitionMode:187148211]: WHODAMAGEDWHOWITHMISSILES:MiG-23ML_1:15167.3:Geist-I/M mk.Ib:20109.6:Geist-I/M mk.Ib_1
+[BDArmory.BDACompetitionMode:187148211]: WHODAMAGEDWHOWITHMISSILES:MiG-23ML_2:21748.5:Geist-I/M mk.Ib
+[BDArmory.BDACompetitionMode:187148211]: WHODAMAGEDWHOWITHMISSILES:Geist-I/M mk.Ib_1:3530.4:MiG-23ML_2
+[BDArmory.BDACompetitionMode:187148211]: WHODAMAGEDWHOWITHMISSILES:Geist-I/M mk.Ib_2:16616.1:MiG-23ML_2
+[BDArmory.BDACompetitionMode:187148211]: WHODAMAGEDWHOWITHBATTLEDAMAGE:MiG-23ML:314.0:Geist-I/M mk.Ib_2:126.8:Geist-I/M mk.Ib_1
+[BDArmory.BDACompetitionMode:187148211]: WHODAMAGEDWHOWITHBATTLEDAMAGE:MiG-23ML_1:375.6:Geist-I/M mk.Ib_2
+[BDArmory.BDACompetitionMode:187148211]: WHODAMAGEDWHOWITHBATTLEDAMAGE:MiG-23ML_2:176.8:Geist-I/M mk.Ib
+[BDArmory.BDACompetitionMode:187148211]: GMKILL:MiG-23ML:GM
+[BDArmory.BDACompetitionMode:187148211]: GMKILL:MiG-23ML_1:LandedTooLong
+[BDArmory.BDACompetitionMode:187148211]: GMKILL:MiG-23ML_2:LandedTooLong
+[BDArmory.BDACompetitionMode:187148211]: HPLEFT:MiG-23ML:0
+[BDArmory.BDACompetitionMode:187148211]: HPLEFT:MiG-23ML_1:0
+[BDArmory.BDACompetitionMode:187148211]: HPLEFT:MiG-23ML_2:0
+[BDArmory.BDACompetitionMode:187148211]: HPLEFT:Geist-I/M mk.Ib:100
+[BDArmory.BDACompetitionMode:187148211]: HPLEFT:Geist-I/M mk.Ib_1:94.6308724832215
+[BDArmory.BDACompetitionMode:187148211]: HPLEFT:Geist-I/M mk.Ib_2:0
+[BDArmory.BDACompetitionMode:187148211]: ACCURACY:MiG-23ML:0/0:0/0
+[BDArmory.BDACompetitionMode:187148211]: ACCURACY:MiG-23ML_1:0/0:0/0
+[BDArmory.BDACompetitionMode:187148211]: ACCURACY:MiG-23ML_2:0/0:0/0
+[BDArmory.BDACompetitionMode:187148211]: ACCURACY:Geist-I/M mk.Ib:68/485:0/0
+[BDArmory.BDACompetitionMode:187148211]: ACCURACY:Geist-I/M mk.Ib_1:8/91:0/0
+[BDArmory.BDACompetitionMode:187148211]: ACCURACY:Geist-I/M mk.Ib_2:60/1200:0/0

@@ -1,0 +1,38 @@
+[BDArmory.BDACompetitionMode:187150605]: Dumping Results after 144s (of 0s) at 2025-12-06 02:22:28 -05:00
+[BDArmory.BDACompetitionMode:187150605]: RESULT:Win:{"team": "Team B", "members": ["KMX-08E3 Sagitta II", "KMX-08E3 Sagitta II_1", "KMX-08E3 Sagitta II_2"]}
+[BDArmory.BDACompetitionMode:187150605]: DEADTEAMS:[{"team": "Team A", "members": ["This isn't Ground RB", "This isn't Ground RB_1", "This isn't Ground RB_2"]}]
+[BDArmory.BDACompetitionMode:187150605]: ALIVE:KMX-08E3 Sagitta II
+[BDArmory.BDACompetitionMode:187150605]: ALIVE:KMX-08E3 Sagitta II_1
+[BDArmory.BDACompetitionMode:187150605]: ALIVE:KMX-08E3 Sagitta II_2
+[BDArmory.BDACompetitionMode:187150605]: DEAD:1:128.0:This isn't Ground RB
+[BDArmory.BDACompetitionMode:187150605]: DEAD:2:138.0:This isn't Ground RB_1
+[BDArmory.BDACompetitionMode:187150605]: DEAD:0:122.0:This isn't Ground RB_2
+[BDArmory.BDACompetitionMode:187150605]: WHOSHOTWHOWITHGUNS:This isn't Ground RB:79:KMX-08E3 Sagitta II_1
+[BDArmory.BDACompetitionMode:187150605]: WHOSHOTWHOWITHGUNS:This isn't Ground RB_1:59:KMX-08E3 Sagitta II_2
+[BDArmory.BDACompetitionMode:187150605]: WHOSHOTWHOWITHGUNS:This isn't Ground RB_2:31:KMX-08E3 Sagitta II
+[BDArmory.BDACompetitionMode:187150605]: WHODAMAGEDWHOWITHGUNS:This isn't Ground RB:22475.8:KMX-08E3 Sagitta II_1
+[BDArmory.BDACompetitionMode:187150605]: WHODAMAGEDWHOWITHGUNS:This isn't Ground RB_1:16868.4:KMX-08E3 Sagitta II_2
+[BDArmory.BDACompetitionMode:187150605]: WHODAMAGEDWHOWITHGUNS:This isn't Ground RB_2:9625.0:KMX-08E3 Sagitta II
+[BDArmory.BDACompetitionMode:187150605]: WHOHITWHOWITHMISSILES:This isn't Ground RB:1:KMX-08E3 Sagitta II_1
+[BDArmory.BDACompetitionMode:187150605]: WHOHITWHOWITHMISSILES:This isn't Ground RB_1:1:KMX-08E3 Sagitta II_2:1:KMX-08E3 Sagitta II
+[BDArmory.BDACompetitionMode:187150605]: WHOPARTSHITWHOWITHMISSILES:This isn't Ground RB:119:KMX-08E3 Sagitta II_1
+[BDArmory.BDACompetitionMode:187150605]: WHOPARTSHITWHOWITHMISSILES:This isn't Ground RB_1:101:KMX-08E3 Sagitta II_2:19:KMX-08E3 Sagitta II
+[BDArmory.BDACompetitionMode:187150605]: WHODAMAGEDWHOWITHMISSILES:This isn't Ground RB:7894.5:KMX-08E3 Sagitta II_1
+[BDArmory.BDACompetitionMode:187150605]: WHODAMAGEDWHOWITHMISSILES:This isn't Ground RB_1:12134.7:KMX-08E3 Sagitta II_2:7523.1:KMX-08E3 Sagitta II
+[BDArmory.BDACompetitionMode:187150605]: WHODAMAGEDWHOWITHBATTLEDAMAGE:This isn't Ground RB:386.4:KMX-08E3 Sagitta II_1:29206.9:This isn't Ground RB
+[BDArmory.BDACompetitionMode:187150605]: WHODAMAGEDWHOWITHBATTLEDAMAGE:This isn't Ground RB_1:60.4:KMX-08E3 Sagitta II_2
+[BDArmory.BDACompetitionMode:187150605]: WHODAMAGEDWHOWITHBATTLEDAMAGE:This isn't Ground RB_2:29.6:KMX-08E3 Sagitta II
+[BDArmory.BDACompetitionMode:187150605]: GMKILL:This isn't Ground RB_2:LandedTooLong
+[BDArmory.BDACompetitionMode:187150605]: KILLSTEALMISSILES:This isn't Ground RB_1:KMX-08E3 Sagitta II
+[BDArmory.BDACompetitionMode:187150605]: HPLEFT:This isn't Ground RB:0
+[BDArmory.BDACompetitionMode:187150605]: HPLEFT:This isn't Ground RB_1:0
+[BDArmory.BDACompetitionMode:187150605]: HPLEFT:This isn't Ground RB_2:0
+[BDArmory.BDACompetitionMode:187150605]: HPLEFT:KMX-08E3 Sagitta II:100
+[BDArmory.BDACompetitionMode:187150605]: HPLEFT:KMX-08E3 Sagitta II_1:100
+[BDArmory.BDACompetitionMode:187150605]: HPLEFT:KMX-08E3 Sagitta II_2:100
+[BDArmory.BDACompetitionMode:187150605]: ACCURACY:This isn't Ground RB:0/0:0/0
+[BDArmory.BDACompetitionMode:187150605]: ACCURACY:This isn't Ground RB_1:0/212:0/0
+[BDArmory.BDACompetitionMode:187150605]: ACCURACY:This isn't Ground RB_2:0/0:0/0
+[BDArmory.BDACompetitionMode:187150605]: ACCURACY:KMX-08E3 Sagitta II:31/150:0/0
+[BDArmory.BDACompetitionMode:187150605]: ACCURACY:KMX-08E3 Sagitta II_1:79/183:0/0
+[BDArmory.BDACompetitionMode:187150605]: ACCURACY:KMX-08E3 Sagitta II_2:59/164:0/0

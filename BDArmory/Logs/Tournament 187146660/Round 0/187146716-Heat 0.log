@@ -1,0 +1,36 @@
+[BDArmory.BDACompetitionMode:187146716]: Dumping Results after 122s (of 0s) at 2025-12-06 01:18:19 -05:00
+[BDArmory.BDACompetitionMode:187146716]: RESULT:Win:{"team": "Team A", "members": ["This isn't Ground RB", "This isn't Ground RB_1", "This isn't Ground RB_2"]}
+[BDArmory.BDACompetitionMode:187146716]: DEADTEAMS:[{"team": "Team B", "members": ["MRJ-Vehicles Flying Totoya b8", "MRJ-Vehicles Flying Totoya b8_1", "MRJ-Vehicles Flying Totoya b8_2"]}]
+[BDArmory.BDACompetitionMode:187146716]: ALIVE:This isn't Ground RB
+[BDArmory.BDACompetitionMode:187146716]: ALIVE:This isn't Ground RB_1
+[BDArmory.BDACompetitionMode:187146716]: ALIVE:This isn't Ground RB_2
+[BDArmory.BDACompetitionMode:187146716]: DEAD:0:56.0:MRJ-Vehicles Flying Totoya b8
+[BDArmory.BDACompetitionMode:187146716]: DEAD:1:102.0:MRJ-Vehicles Flying Totoya b8_1
+[BDArmory.BDACompetitionMode:187146716]: DEAD:2:116.0:MRJ-Vehicles Flying Totoya b8_2
+[BDArmory.BDACompetitionMode:187146716]: WHOSHOTWHOWITHGUNS:MRJ-Vehicles Flying Totoya b8_1:6:This isn't Ground RB
+[BDArmory.BDACompetitionMode:187146716]: WHOSHOTWHOWITHGUNS:MRJ-Vehicles Flying Totoya b8_2:1:This isn't Ground RB_1:10:This isn't Ground RB
+[BDArmory.BDACompetitionMode:187146716]: WHOSHOTWHOWITHGUNS:This isn't Ground RB_1:6:MRJ-Vehicles Flying Totoya b8_2
+[BDArmory.BDACompetitionMode:187146716]: WHODAMAGEDWHOWITHGUNS:MRJ-Vehicles Flying Totoya b8_1:2936.4:This isn't Ground RB
+[BDArmory.BDACompetitionMode:187146716]: WHODAMAGEDWHOWITHGUNS:MRJ-Vehicles Flying Totoya b8_2:307.0:This isn't Ground RB_1:5156.6:This isn't Ground RB
+[BDArmory.BDACompetitionMode:187146716]: WHODAMAGEDWHOWITHGUNS:This isn't Ground RB_1:1615.3:MRJ-Vehicles Flying Totoya b8_2
+[BDArmory.BDACompetitionMode:187146716]: WHOHITWHOWITHMISSILES:MRJ-Vehicles Flying Totoya b8:1:This isn't Ground RB:1:This isn't Ground RB_1
+[BDArmory.BDACompetitionMode:187146716]: WHOHITWHOWITHMISSILES:MRJ-Vehicles Flying Totoya b8_1:2:This isn't Ground RB_2
+[BDArmory.BDACompetitionMode:187146716]: WHOPARTSHITWHOWITHMISSILES:MRJ-Vehicles Flying Totoya b8:96:This isn't Ground RB:65:This isn't Ground RB_1
+[BDArmory.BDACompetitionMode:187146716]: WHOPARTSHITWHOWITHMISSILES:MRJ-Vehicles Flying Totoya b8_1:106:This isn't Ground RB_2
+[BDArmory.BDACompetitionMode:187146716]: WHODAMAGEDWHOWITHMISSILES:MRJ-Vehicles Flying Totoya b8:27991.4:This isn't Ground RB:540.8:This isn't Ground RB_1
+[BDArmory.BDACompetitionMode:187146716]: WHODAMAGEDWHOWITHMISSILES:MRJ-Vehicles Flying Totoya b8_1:23773.3:This isn't Ground RB_2
+[BDArmory.BDACompetitionMode:187146716]: WHODAMAGEDWHOWITHBATTLEDAMAGE:MRJ-Vehicles Flying Totoya b8_1:364.8:This isn't Ground RB:2122.5:MRJ-Vehicles Flying Totoya b8_1
+[BDArmory.BDACompetitionMode:187146716]: WHODAMAGEDWHOWITHBATTLEDAMAGE:MRJ-Vehicles Flying Totoya b8_2:75.6:This isn't Ground RB:4704.3:MRJ-Vehicles Flying Totoya b8_2
+[BDArmory.BDACompetitionMode:187146716]: HEADSHOTGUNS:MRJ-Vehicles Flying Totoya b8_2:This isn't Ground RB
+[BDArmory.BDACompetitionMode:187146716]: HPLEFT:MRJ-Vehicles Flying Totoya b8:0
+[BDArmory.BDACompetitionMode:187146716]: HPLEFT:MRJ-Vehicles Flying Totoya b8_1:0
+[BDArmory.BDACompetitionMode:187146716]: HPLEFT:MRJ-Vehicles Flying Totoya b8_2:0
+[BDArmory.BDACompetitionMode:187146716]: HPLEFT:This isn't Ground RB:100
+[BDArmory.BDACompetitionMode:187146716]: HPLEFT:This isn't Ground RB_1:97.6878612716763
+[BDArmory.BDACompetitionMode:187146716]: HPLEFT:This isn't Ground RB_2:100
+[BDArmory.BDACompetitionMode:187146716]: ACCURACY:MRJ-Vehicles Flying Totoya b8:0/0:0/0
+[BDArmory.BDACompetitionMode:187146716]: ACCURACY:MRJ-Vehicles Flying Totoya b8_1:0/0:0/0
+[BDArmory.BDACompetitionMode:187146716]: ACCURACY:MRJ-Vehicles Flying Totoya b8_2:6/22:0/0
+[BDArmory.BDACompetitionMode:187146716]: ACCURACY:This isn't Ground RB:16/145:0/0
+[BDArmory.BDACompetitionMode:187146716]: ACCURACY:This isn't Ground RB_1:1/179:0/0
+[BDArmory.BDACompetitionMode:187146716]: ACCURACY:This isn't Ground RB_2:0/143:0/0
