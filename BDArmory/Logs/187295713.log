@@ -1,0 +1,15 @@
+[BDArmory.BDACompetitionMode:187295713]: Dumping Results after -35s (of 0s) at 2025-12-07 18:42:15 -05:00
+[BDArmory.BDACompetitionMode:187295713]: RESULT:Mutual Annihilation
+[BDArmory.BDACompetitionMode:187295713]: DEADTEAMS:[{"team": "Team B", "members": ["KAK-FB I7"]}, {"team": "Team A", "members": ["This isn't Ground RB"]}]
+[BDArmory.BDACompetitionMode:187295713]: MIA:KAK-FB I7
+[BDArmory.BDACompetitionMode:187295713]: DEAD:0:369.0:This isn't Ground RB
+[BDArmory.BDACompetitionMode:187295713]: WHOSHOTWHOWITHGUNS:This isn't Ground RB:83:KAK-FB I7
+[BDArmory.BDACompetitionMode:187295713]: WHOHITWHOWITHMISSILES:KAK-FB I7:2:This isn't Ground RB
+[BDArmory.BDACompetitionMode:187295713]: WHOHITWHOWITHMISSILES:This isn't Ground RB:1:KAK-FB I7
+[BDArmory.BDACompetitionMode:187295713]: WHOPARTSHITWHOWITHMISSILES:KAK-FB I7:136:This isn't Ground RB
+[BDArmory.BDACompetitionMode:187295713]: WHOPARTSHITWHOWITHMISSILES:This isn't Ground RB:106:KAK-FB I7
+[BDArmory.BDACompetitionMode:187295713]: GMKILL:This isn't Ground RB:LandedTooLong
+[BDArmory.BDACompetitionMode:187295713]: HPLEFT:KAK-FB I7:0
+[BDArmory.BDACompetitionMode:187295713]: HPLEFT:This isn't Ground RB:0
+[BDArmory.BDACompetitionMode:187295713]: ACCURACY:KAK-FB I7:83/364:0/0
+[BDArmory.BDACompetitionMode:187295713]: ACCURACY:This isn't Ground RB:0/216:0/0

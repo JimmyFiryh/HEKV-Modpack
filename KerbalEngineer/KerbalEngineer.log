@@ -1,8 +1,8 @@
 Executing: KerbalEngineer - 1.1.9.0
 Assembly: C:\KSP PS\GameData\KerbalEngineer\KerbalEngineer.dll
 
-[Log 15:09:23.4121985]: images (UnityEngine.AssetBundle)
-[Log 15:11:43.5876518]: Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+[Log 19:20:13.1840756]: images (UnityEngine.AssetBundle)
+[Log 19:23:40.5717966]: Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: ModuleManagerWatchDog, Version=1.1.2.0, Culture=neutral, PublicKeyToken=null
 Assembly: Scale_Redist, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: GroundEffect, Version=1.0.7533.23743, Culture=neutral, PublicKeyToken=null
@@ -116,25 +116,32 @@ Assembly: TweakScaleCompanion_KIAS, Version=1.1.0.0, Culture=neutral, PublicKeyT
 Assembly: TweakScalerKISInventory, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: TweakScaleCompanion_PKMC, Version=2.2.1.1, Culture=neutral, PublicKeyToken=null
 
-[Log 15:11:43.5891546]: FlightEngineerCore->Awake
-[Log 15:11:47.0850097]: FlightEngineerCore->Start
-[Log 15:12:07.1398278]: FlightEngineerCore->OnDestroy
-[Log 15:13:17.1325649]: BuildAdvanced->OnDestroy
-[Log 15:13:17.6446510]: ActionMenu->Awake
-[Log 15:13:17.6446510]: FlightEngineerCore->Awake
-[Log 15:13:27.8980318]: ActionMenu->Start
-[Log 15:13:27.9091985]: FlightEngineerCore->Start
-[Log 15:16:02.9870755]: ActionMenu->OnDestroy
-[Log 15:16:03.0306941]: FlightEngineerCore->OnDestroy
-[Log 15:18:33.2080489]: BuildAdvanced->OnDestroy
-[Log 15:18:33.8910688]: ActionMenu->Awake
-[Log 15:18:33.8910688]: FlightEngineerCore->Awake
-[Log 15:18:41.1440322]: ActionMenu->Start
-[Log 15:18:41.1541860]: FlightEngineerCore->Start
-[15:21:15.2298022]: Exception SimManager.StartSimulation() // System.NullReferenceException: Object reference not set to an instance of an object
+[Log 19:23:40.5727966]: FlightEngineerCore->Awake
+[Log 19:23:44.3437175]: FlightEngineerCore->Start
+[Log 19:23:48.6939325]: FlightEngineerCore->OnDestroy
+[Log 19:25:57.7078888]: BuildAdvanced->OnDestroy
+[Log 19:25:58.2980696]: ActionMenu->Awake
+[Log 19:25:58.2990416]: FlightEngineerCore->Awake
+[Log 19:26:09.4933336]: ActionMenu->Start
+[Log 19:26:09.5042848]: FlightEngineerCore->Start
+[19:29:12.0081334]: Exception SimManager.StartSimulation() // System.NullReferenceException: Object reference not set to an instance of an object
   at KerbalEngineer.VesselSimulator.SimManager.StartSimulation () [0x00054] in <134deb60e87843589b7ea1a020650b28>:0 
 []:   at KerbalEngineer.VesselSimulator.SimManager.StartSimulation () [0x00054] in <134deb60e87843589b7ea1a020650b28>:0 
 
-[Log 15:21:17.0898318]: ActionMenu->OnDestroy
-[Log 15:21:17.1098714]: FlightEngineerCore->OnDestroy
-[Log 15:21:28.5126967]: BuildAdvanced->OnDestroy
+[Log 19:29:13.8068452]: FlightEngineerCore->OnDestroy
+[Log 19:29:13.8288578]: ActionMenu->OnDestroy
+[Log 19:33:24.9423568]: BuildAdvanced->OnDestroy
+[Log 19:33:25.5042197]: ActionMenu->Awake
+[Log 19:33:25.5042197]: FlightEngineerCore->Awake
+[Log 19:33:33.5863331]: ActionMenu->Start
+[Log 19:33:33.5983963]: FlightEngineerCore->Start
+[Log 19:40:43.6884953]: FlightEngineerCore->OnDestroy
+[Log 19:40:43.7415438]: ActionMenu->OnDestroy
+[Log 19:42:22.4269504]: BuildAdvanced->OnDestroy
+[Log 19:42:23.0215978]: ActionMenu->Awake
+[Log 19:42:23.0215978]: FlightEngineerCore->Awake
+[Log 19:42:31.1418042]: ActionMenu->Start
+[Log 19:42:31.1588287]: FlightEngineerCore->Start
+[Log 19:47:06.1396675]: FlightEngineerCore->OnDestroy
+[Log 19:47:06.2342948]: ActionMenu->OnDestroy
+[Log 19:50:11.7397444]: BuildAdvanced->OnDestroy
