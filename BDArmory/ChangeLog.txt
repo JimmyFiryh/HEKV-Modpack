@@ -1,4 +1,71 @@
-﻿v1.11.1.0
+﻿v1.12.0.0
+IMPROVEMENTS / FIXES
+- UI:
+	- Adjust the "Steel Equivalent Thickness" display in the armor GUI to show a more intuitive value.
+- AI / WM:
+	- Fix broken ActiveController registry clean-up.
+	- Add an action group trigger to the WM for when the vessel comes under attack.
+	- Fixed some bugs in point-defense logic which could lead to the game freezing.
+	- Further improved point-defense logic, should behave slightly better against mixed barrages of missiles, some of which it cannot engage with missiles (like stealthy missiles).
+	- AI can no longer see incoming missiles through water.
+	- AI will fire missiles that can (probably) clear any terrain in front of them without LoS to the target.
+	- Slightly better AI radar management behavior (pending a bigger overhaul), AI will no longer try to lock targets if it'll unlock the radar's current radar target (due to it being outside of multiLockFOV) if it's being used for guidance.
+	- Improved AI weapon selection, AI should be a tiny bit smarter about what weapon it picks, as well as not dumping all anti-radiation missiles at once.
+	- Fix surface AI reversing behavior, surface AI should now reverse more smoothly.
+	- Fix DEBUG_LINES causing NREs for vessels attacking targets beyond visual range which have not previously seen a target within visual range.
+- Sensors:
+	- Radar and RWR code optimizations.
+	- Fix smooth slewing of the targeting camera when clicking on the GUI buttons when a target is locked.
+	- Targeting Camera terrain collision detection no longer starts 50m forward of the lens.
+	- Targeting Camera will no longer lock on to its parent vessel or missiles fired by its parent vessel.
+	- Prevent errors in radar code from potentially causing game freezes.
+	- Radar 'auto-disable vs incoming Antirad missiles' default has been changed to Off. This can be toggled per-radar or turned on for the entire vessel from the Weapon Manager.
+- Weapons:
+	- Add conical beam weapon implementation for creating microwave drone zappers, War of the Worlds heatrays, tractor beams, etc.
+		- Adds new weapon.cfg fields: 'conicAoE' = T/F to enable conic field of fire for Laser class weapons.
+			'beamFOV' = n to set width of beam.
+			'friendlyFire' = T/F to set of conic weapons affect ally craft in AoE, if firing into a melee.
+	- Rework EMP weapons. Craft EMP threshold before getting disabled is now dependent on cockpit seat quantity/drone core SAS level.
+		- EMP damage received now adjusted by craft armor/hull type and craft bulk. Electrolaser/lightning weapons resisted by non-conductive armor and hull material (e.g. not metal).
+		- EMP missile/Nuke EMP burst/conicAoE EMP lasers resisted by craft bulk and conductive armor occluding cockpits from emission source.
+		- EMP buildup now causes increasing penalties/subsystem shutdowns as it accrues in a vessel receiving EMP damage.
+	- Fix hypersonic rounds dealing self damage when fired into something at close range.
+	- Fix explosion damage affecting armored parts which should be able to resist them.
+	- Fix incorrect application of certain shaped charge logic to continuous rod warheads.
+	- External fires from incendiary ammo into flammable hull materials no longer suppressed by Inerted Tanks.
+	- Added a AIMING_VISUAL_MALUS setting (default=0) that applies a malus to aiming at targets with mk1 eyeballs if >0 and the target is within visual range. The malus decreases both with time since target acquisition and shots fired at the target, and resets when changing targets.
+		Weapons configs can be configured with:
+		- 'sightingAccuracy' (default=1 mrad) which represents the limit of visual aiming accounting for scopes and other visual aids.
+		- 'malusReductionPerShot' (default 0.1) which determines how rapidly the malus decreases with each shot at the target.
+	- Missiles:
+		- Add ordnance offset option to non-adjustableRail reloadable MultiMissileLaunchers that don't come with set missile types.
+		- Fix Nuclear ordnance applying multiple stacks of EMP damage to a single vessel during detonation.
+		- Improve "CLOSlead" debug visualization, now shows the proper, lead-adjusted beam, for easier debugging.
+		- Add new "adjustMissileVOffset = T/F field for MultimissileLauncher.cfgs to set if missiles should automatically adjust mount position based on missile diameter (missile rails, etc) or not (VLS cells).
+		- Fixed missile ECM behavior, previously changes to the missile's radar signature due to ECM could be overwritten by the missile going active/passive, causing ECM to seemingly not function.
+		- Missiles with a "cruiseRangeTrigger" will now also fire the cruise motor if the missile's airspeed drops below 75% of its optimum airspeed while in-atmosphere.
+		- AAMLoft settings for modular missiles are now correctly loaded when returning to the SPH.
+		- Fix "guidanceDelay" not working properly.
+		- Improve Kappa guidance loft termination, as a result Kappa no longer uses LoftRangeFac and LoftVertVelComp.
+		- Fix CLOS/CLOSthree/CLOSlead guidance failure due to inaccurate determination of "no progress" condition.
+		- "CruisePopup" setting now persistent and editable in the hangar when missile config has "CruisePopup = true".
+		- Missiles will now respect config value of "DetonateAtMinimumDistance" setting, if a missile config does not have this set to true, it cannot be edited/used.
+		- Un-deprecate "proxyDetonate" field, missiles with "proxyDetonate = false" in their configs will be *strictly* impact fuzed.
+		- Fix certain scaling issues with multi-missile launchers.
+		- Fix missile turret aiming under Guard Mode control, particularly, turrets with IR, laser and anti-radiation missiles will now pre-aim at the target to facilitate acquisition.
+  - Robotics:
+		- !!Experimental!! Adds ability to build custom turrets with Breaking Ground Hinges and Servos.
+			- BG hinges/servos now have a 'Custom Turret ID' slider; attaching a weapon as a child of the robotic part adds a similar 'Custom Turret ID' slider to the gun.
+			- Setting both to the same value will enable the gun to use BG robotics to slew/traverse the attached weapon (and any other parts attached to the robotics) as if it were a standard BDA turret.
+			- Turret ID = 0 is an Off value, and will not link weapons to a servo.
+			- Pressing F2 to bring up the Weapon Alignment in the SPH/VAB will draw a Pitch/yaw Blue/Green alignment line for all enabled servos.
+			- All servos in a custom turret should have aligned forward and Up directions.
+			- Attached weapons should be placed in the forward direction for optimal operation.
+- Competition:
+	- Allow warping to morning for waypoints tournaments.
+	- Show the waypoint name (if it exists) in the VS status during waypoint competitions.
+
+v1.11.1.0
 IMPROVEMENTS / FIXES
 - General:
 	- Fix some compatibility issues with pre-KSP v1.12 versions.
@@ -4361,16 +4428,16 @@ v1.0.0
 
   * Radar & Stealth, re-design of how the radar system works:
 	- New radar reflection shader (credit: original great idea by JR!), calculating cross section in m^2:
-	   + allows building for stealth using angled surfaces (“scatter those pesky radar waves away!”)
+	   + allows building for stealth using angled surfaces ("scatter those pesky radar waves away!")
 	   + calculation is normalized so that a 1x1 structural plate directly frontally facing the radar yields a return of exactly 1 m^2
 	- Redesign of the radar system, radars all have different ranges & detection performance:
 	   + radar part configs changed, new fields (floatcurves) to define detection and lock/track performance, new field to specify ground clutter effectiveness
-	- New in-editor analysis window to help evaluate a craft’s cross section and performance against selectable radars
+	- New in-editor analysis window to help evaluate a craft's cross section and performance against selectable radars
 	- New options for configuration of radar guided missiles in the part config:
 	   + can now explicitly specify active seeker performance (via a FloatCurve, similar to radars)
 	   + can now explicitly specify the static radar cross section of a missile for detection purpose
-	- Adjustment of the Chaff countermeasure system: more gradual effect of decoying missiles away (instead of previous “all-or-nothing”)
-	- Adjustment of IR missiles and flare countermeasures: simulating now more of a “imaging infrared” seeker than an old dumb seeker – to be successfully decoyed, flares have to more closely match the thermal spectrum of the part the seeker has locked on to
+	- Adjustment of the Chaff countermeasure system: more gradual effect of decoying missiles away (instead of previous "all-or-nothing")
+	- Adjustment of IR missiles and flare countermeasures: simulating now more of a "imaging infrared" seeker than an old dumb seeker — to be successfully decoyed, flares have to more closely match the thermal spectrum of the part the seeker has locked on to
 
   * Massive improvements to ballistic missile guidance and modular missiles, ability to simulate ICBM flight paths:
 	- Ballistic guidance has been enhanced to allow firing missiles accurately even at distances greater than 500 km
