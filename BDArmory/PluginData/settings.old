@@ -1,4 +1,4 @@
-VERSION = 1.9.0.0
+VERSION = 1.12.0.0
 BDASettings
 {
 	GENERAL_SETTINGS_TOGGLE = True
@@ -36,7 +36,7 @@ BDASettings
 	AUTO_ENABLE_VESSEL_SWITCHING = False
 	AUTONOMOUS_COMBAT_SEATS = False
 	DESTROY_UNCONTROLLED_WMS = False
-	RESET_HP = False
+	RESET_HP = True
 	KERBAL_SAFETY = 1
 	TRACE_VESSELS_DURING_COMPETITIONS = False
 	DUMB_IR_SEEKERS = False
@@ -58,7 +58,7 @@ BDASettings
 	COMPETITION_ALTITUDE_LIMIT_HIGH = 55
 	COMPETITION_ALTITUDE_LIMIT_LOW = -39
 	COMPETITION_NONCOMPETITOR_REMOVAL_DELAY = 61
-	COMPETITION_DISTANCE = 30000
+	COMPETITION_DISTANCE = 10000
 	COMPETITION_START_NOW_AFTER = 11
 	DEBRIS_CLEANUP_DELAY = 15
 	MAX_NUM_BULLET_DECALS = 200
@@ -158,10 +158,10 @@ BDASettings
 	REMOTE_INTERHEAT_DELAY = 30
 	RUNWAY_PROJECT_ROUND = 0
 	SHOW_SPAWN_OPTIONS = True
-	VESSEL_SPAWN_GEOCOORDS = (8.77978, -118.892)
+	VESSEL_SPAWN_GEOCOORDS = (-0.04886, -74.7243)
 	VESSEL_SPAWN_ALTITUDE = 2000
 	VESSEL_SPAWN_DISTANCE_FACTOR = 20
-	VESSEL_SPAWN_DISTANCE = 10000
+	VESSEL_SPAWN_DISTANCE = 15000
 	VESSEL_SPAWN_DISTANCE_TOGGLE = True
 	VESSEL_SPAWN_REASSIGN_TEAMS = True
 	VESSEL_SPAWN_EASE_IN_SPEED = 1
@@ -199,8 +199,8 @@ BDASettings
 	TOURNAMENT_ROUNDS = 1
 	TOURNAMENT_VESSELS_PER_HEAT = 4
 	TOURNAMENT_TEAMS_PER_HEAT = 2
-	TOURNAMENT_VESSELS_PER_TEAM = 6
-	TOURNAMENT_FULL_TEAMS = False
+	TOURNAMENT_VESSELS_PER_TEAM = 1
+	TOURNAMENT_FULL_TEAMS = True
 	TOURNAMENT_TIMEWARP_BETWEEN_ROUNDS = 0
 	DRAW_ARMOR_LABELS = False
 	SCORING_HEADSHOT = 3
@@ -317,7 +317,7 @@ BDASettings
 	PINATA_NAME = Pinata
 	PWING_THICKNESS_AFFECT_MASS_HP = False
 	VESSEL_SPAWN_START_COMPETITION_AUTOMATICALLY = False
-	INFINITE_FUEL = True
+	INFINITE_FUEL = False
 	COMPETITION_ALTITUDE__LIMIT_ASL = False
 	VM_TOOLBAR_BUTTON = True
 	INFINITE_EC = False
@@ -425,6 +425,12 @@ BDASettings
 	TOURNAMENT_START_DESPITE_FAILURES_ON_ATTEMPT = 3
 	VESSEL_SWITCHER_WINDOW_ALIGNED = False
 	MINIMALIST_COMP_STATUS = True
+	INFINITE_COUNTERMEASURES = False
+	DISABLE_GUARDMODE_ON_SPAWN = True
+	GUARD_MODE_TRIGGER_ALT = 3000
+	BD_DAMAGE_PENETRATION = 0.2
+	VS_NPC_SCORE_MOD = 2
+	AIMING_VISUAL_MALUS = 0
 }
 BDAInputSettings
 {
@@ -489,6 +495,7 @@ IconSettings
 	MAX_DISTANCE_THRESHOLD = 200000
 	MISSILE_TEXT = True
 	OPACITY = 0.5
+	STORE_TEAM_COLORS = True
 }
 TeamColors
 {
@@ -656,6 +663,10 @@ TeamColors
 	Lancer Squadron = 146,255,0,255
 	Special Strike Group "Magic" = 160,0,255,255
 	Rosebud Squadron = 189,17,17,255
+	Team B = 128,0,255,255
+	Team A = 0,198,255,255
+	TPKTW = 255,177,0,255
+	Winged Estaries = 255,105,0,255
 	
 	{
 	}
@@ -665,80 +676,24 @@ TeamColors
 }
 BDAWindows
 {
-	WindowRectToolbar = (x:3174.00, y:0.00, width:400.00, height:268.00)
+	WindowRectToolbar = (x:3174.00, y:0.00, width:400.00, height:299.00)
 	WindowRectGps = (x:0.00, y:0.00, width:390.00, height:62.00)
-	WindowRectSettings = (x:453.00, y:0.00, width:420.00, height:1160.00)
-	WindowRectRadar = (x:387.00, y:1852.00, width:321.00, height:205.00)
+	WindowRectSettings = (x:453.00, y:0.00, width:420.00, height:1226.50)
+	WindowRectRadar = (x:285.74, y:1852.50, width:321.00, height:205.00)
 	WindowRectRwr = (x:867.00, y:1930.00, width:138.00, height:153.00)
-	WindowRectVesselSwitcher = (x:2150.00, y:1966.00, width:940.00, height:129.00)
+	WindowRectVesselSwitcher = (x:2150.00, y:1959.00, width:940.00, height:134.00)
 	WindowRectWingCommander = (x:0.00, y:631.00, width:240.00, height:419.00)
 	WindowRectTargetingCam = (x:1053.00, y:1585.00, width:434.00, height:383.00)
 	WindowRectRemoteOrchestration = (x:0.00, y:0.00, width:0.00, height:0.00)
 	WindowRectEvolution = (x:0.00, y:0.00, width:0.00, height:0.00)
-	WindowRectVesselSpawner = (x:415.00, y:469.00, width:480.00, height:736.00)
+	WindowRectVesselSpawner = (x:1140.55, y:356.00, width:480.00, height:736.00)
 	WindowRectAI = (x:0.00, y:321.00, width:500.00, height:305.00)
 	WindowRectVesselMover = (x:2412.00, y:91.00, width:300.00, height:0.00)
 	WindowRectVesselMoverVesselSelection = (x:655.00, y:239.00, width:600.00, height:800.00)
 	WindowRectScores = (x:0.00, y:0.00, width:500.00, height:70.00)
 	_WindowRectVesselSwitcherUIHidden = (x:1320.00, y:993.00, width:600.00, height:87.00)
-	_WindowRectVesselSwitcherUIVisible = (x:2150.00, y:1966.00, width:940.00, height:129.00)
+	_WindowRectVesselSwitcherUIVisible = (x:2150.00, y:1959.00, width:940.00, height:134.00)
 	_WindowRectScoresUIHidden = (x:0.00, y:0.00, width:500.00, height:70.00)
 	_WindowRectScoresUIVisible = (x:0.00, y:0.00, width:500.00, height:70.00)
 	WindowRectWayPointSpawner = (x:0.00, y:0.00, width:0.00, height:0.00)
-}
-ScoreWeights
-{
-	Wins = 1
-	Survived = 0
-	MIA = 0
-	Deaths = -1
-	Death Order = 1
-	Death Time = 0.002
-	Clean Kills = 3
-	Assists = 1.5
-	Hits = 0.004
-	Hits Taken = 0
-	Bullet Damage = 0.0001
-	Bullet Damage Taken = 4E-05
-	Rocket Hits = 0.035
-	Rocket Hits Taken = 0
-	Rocket Parts Hit = 0.0006
-	Rocket Parts Hit Taken = 0
-	Rocket Damage = 0.00015
-	Rocket Damage Taken = 5E-05
-	Missile Hits = 0.15
-	Missile Hits Taken = 0
-	Missile Parts Hit = 0.002
-	Missile Parts Hit Taken = 0
-	Missile Damage = 3E-05
-	Missile Damage Taken = 1.5E-05
-	RamScore = 0.075
-	RamScore Taken = 0
-	Battle Damage = 0
-	Parts Lost To Asteroids = 0
-	HP Remaining = 0
-	Accuracy = 0
-	Rocket Accuracy = 0
-	Waypoint Count = 10
-	Waypoint Time = -1
-	Waypoint Deviation = -1
-}
-CtsScoreWeights
-{
-	Clean Kills = 3
-	Assists = 1.5
-	Deaths = -1
-	Hits = 0.004
-	Bullet Damage = 0.0001
-	Bullet Damage Taken = 4E-05
-	Rocket Hits = 0.035
-	Rocket Parts Hit = 0.0006
-	Rocket Damage = 0.00015
-	Rocket Damage Taken = 5E-05
-	Missile Hits = 0.15
-	Missile Parts Hit = 0.002
-	Missile Damage = 3E-05
-	Missile Damage Taken = 1.5E-05
-	Ram Score = 0.075
-	Parts Lost To Asteroids = 0
 }

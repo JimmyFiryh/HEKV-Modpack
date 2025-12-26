@@ -1,9 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <config>
-    <string name="Disable Autoscale">LeftShift</string>
-    <string name="Toggle Autoscale">LeftControl+L</string>
-    <bool name="Autoscale">0</bool>
-    <string name="Disable Scale chaining">LeftShift</string>
-    <string name="Toggle Scale chaining">LeftControl+K</string>
-    <bool name="Scale chaining">0</bool>
+    <keycode name="IncreaseScaleKey">W</keycode>
+    <keycode name="DecreaseScaleKey">S</keycode>
+    <keycode name="NextScaleIntervalKey">D</keycode>
+    <keycode name="PrevScaleIntervalKey">A</keycode>
+    <keycode name="ScaleModeKey">Alpha5</keycode>
+    <keycode name="ToggleTemp Scale Children">LeftControl</keycode>
+    <string name="Toggle Scale Children">K</string>
+    <bool name="Scale Children">0</bool>
+    <keycode name="ToggleTemp Match Node Size">LeftControl</keycode>
+    <string name="Toggle Match Node Size">M</string>
+    <bool name="Match Node Size">0</bool>
+    <bool name="Show Stats">0</bool>
+    <bool name="Show KeyBinds">0</bool>
 </config>

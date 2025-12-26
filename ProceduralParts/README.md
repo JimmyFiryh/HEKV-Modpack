@@ -25,7 +25,11 @@ ProceduralParts allows you to procedurally generate a number of different parts 
 * **Heat Shield** Built to the same specs as Deadly Reentry. Will shield any sized object from heat. (requires deadly reentry) 
 
 ## Installation
-Just extract the zip into your KSP folder and you should be away. Some of the integration with other mods requires the latest version of ModuleManager, which is included in the zip. 
+Place the ProceduralParts folder found inside the zip file into GameData.
+
+Dependencies:
+* ModuleManager
+* KSPCommunityFixes
 
 ## Upgrades
 * Make sure you delete any old versions of ProceduralParts. 
@@ -33,6 +37,7 @@ Just extract the zip into your KSP folder and you should be away. Some of the in
 
 ## Known Issues
 * Known limitation: Setting the default shapeName in a part cfg to a hollow shape breaks surface attaching for a new part. Placing it and picking it up again fixes the issue.
+* An SRB attached to a parent through the nozzle gets incorrect position when changing the nozzle angle. Reattaching the part fixes the issue.
 
 ## Custom Textures and Texture Packs 
 Procedural Parts is compatible with all texture packs for StretchySRBs. It's easy to [roll your own texture packs](https://github.com/Swamp-Ig/ProceduralParts/blob/master/Parts/STTextures.cfg) too. 

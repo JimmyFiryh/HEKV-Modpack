@@ -1,0 +1,14 @@
+[BDArmory.BDACompetitionMode:188446333]: Dumping Results after -79s (of 0s) at 2025-12-21 02:14:18 -05:00
+[BDArmory.BDACompetitionMode:188446333]: RESULT:Win:{"team": "B", "members": ["[] Thunderbird II IR"]}
+[BDArmory.BDACompetitionMode:188446333]: DEADTEAMS:[{"team": "A", "members": ["[] Thunderbird II IR_1"]}]
+[BDArmory.BDACompetitionMode:188446333]: ALIVE:[] Thunderbird II IR
+[BDArmory.BDACompetitionMode:188446333]: MIA:[] Thunderbird II IR_1
+[BDArmory.BDACompetitionMode:188446333]: WHOSHOTWHOWITHGUNS:[] Thunderbird II IR:1:[] Thunderbird II IR_1
+[BDArmory.BDACompetitionMode:188446333]: WHOSHOTWHOWITHGUNS:[] Thunderbird II IR_1:37:[] Thunderbird II IR
+[BDArmory.BDACompetitionMode:188446333]: WHODAMAGEDWHOWITHGUNS:[] Thunderbird II IR:73.6:[] Thunderbird II IR_1
+[BDArmory.BDACompetitionMode:188446333]: WHODAMAGEDWHOWITHGUNS:[] Thunderbird II IR_1:1850.6:[] Thunderbird II IR
+[BDArmory.BDACompetitionMode:188446333]: WHODAMAGEDWHOWITHBATTLEDAMAGE:[] Thunderbird II IR_1:1111.2:[] Thunderbird II IR:588.5:[] Thunderbird II IR_1
+[BDArmory.BDACompetitionMode:188446333]: HPLEFT:[] Thunderbird II IR:100
+[BDArmory.BDACompetitionMode:188446333]: HPLEFT:[] Thunderbird II IR_1:0
+[BDArmory.BDACompetitionMode:188446333]: ACCURACY:[] Thunderbird II IR:37/205:0/0
+[BDArmory.BDACompetitionMode:188446333]: ACCURACY:[] Thunderbird II IR_1:1/87:0/0

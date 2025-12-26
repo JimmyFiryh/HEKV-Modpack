@@ -1,0 +1,14 @@
+{
+  "URL": "https://github.com/JonnyOThan/TweakScale/releases/latest/download/999_Scale_Redist.version",
+  "DOWNLOAD": "https://spacedock.info/mod/3514/TweakScale%20Rescaled",
+  "GITHUB": {
+    "USERNAME": "JonnyOThan",
+    "REPOSITORY": "TweakScale",
+    "ALLOW_PRE_RELEASE": true
+  },
+  "NAME": "TweakScale-Redist",
+  "VERSION": "3.3.1.0",
+  "KSP_VERSION": "1.12",
+  "KSP_VERSION_MIN": "1.12.3",
+  "KSP_VERSION_MAX": "1.12"
+}

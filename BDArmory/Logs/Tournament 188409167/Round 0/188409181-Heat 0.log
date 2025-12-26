@@ -1,0 +1,15 @@
+[BDArmory.BDACompetitionMode:188409181]: Dumping Results after 109s (of 0s) at 2025-12-20 15:55:29 -05:00
+[BDArmory.BDACompetitionMode:188409181]: RESULT:Win:{"team": "Team B", "members": ["MRJ-ksjefgbli 5 b22"]}
+[BDArmory.BDACompetitionMode:188409181]: DEADTEAMS:[{"team": "Team A", "members": ["F-4P Phantom II"]}]
+[BDArmory.BDACompetitionMode:188409181]: ALIVE:MRJ-ksjefgbli 5 b22
+[BDArmory.BDACompetitionMode:188409181]: DEAD:0:103.0:F-4P Phantom II
+[BDArmory.BDACompetitionMode:188409181]: WHOSHOTWHOWITHGUNS:F-4P Phantom II:9:MRJ-ksjefgbli 5 b22
+[BDArmory.BDACompetitionMode:188409181]: WHODAMAGEDWHOWITHGUNS:F-4P Phantom II:1368.0:MRJ-ksjefgbli 5 b22
+[BDArmory.BDACompetitionMode:188409181]: WHOHITWHOWITHMISSILES:F-4P Phantom II:2:MRJ-ksjefgbli 5 b22
+[BDArmory.BDACompetitionMode:188409181]: WHOPARTSHITWHOWITHMISSILES:F-4P Phantom II:61:MRJ-ksjefgbli 5 b22
+[BDArmory.BDACompetitionMode:188409181]: WHODAMAGEDWHOWITHMISSILES:F-4P Phantom II:30981.4:MRJ-ksjefgbli 5 b22
+[BDArmory.BDACompetitionMode:188409181]: WHODAMAGEDWHOWITHBATTLEDAMAGE:F-4P Phantom II:18.0:MRJ-ksjefgbli 5 b22
+[BDArmory.BDACompetitionMode:188409181]: HPLEFT:MRJ-ksjefgbli 5 b22:100
+[BDArmory.BDACompetitionMode:188409181]: HPLEFT:F-4P Phantom II:0
+[BDArmory.BDACompetitionMode:188409181]: ACCURACY:MRJ-ksjefgbli 5 b22:9/26:0/0
+[BDArmory.BDACompetitionMode:188409181]: ACCURACY:F-4P Phantom II:0/0:0/0

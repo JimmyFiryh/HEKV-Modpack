@@ -1,10 +1,10 @@
 Executing: KerbalEngineer - 1.1.9.0
 Assembly: C:\KSP PS\GameData\KerbalEngineer\KerbalEngineer.dll
 
-[Log 22:02:27.2371274]: images (UnityEngine.AssetBundle)
-[Log 22:05:33.5749998]: Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+[Log 23:05:30.4737285]: images (UnityEngine.AssetBundle)
+[Log 23:07:51.0544748]: Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: ModuleManagerWatchDog, Version=1.1.2.0, Culture=neutral, PublicKeyToken=null
-Assembly: Scale_Redist, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: Scale_Redist, Version=3.3.1.0, Culture=neutral, PublicKeyToken=null
 Assembly: GroundEffect, Version=1.0.7533.23743, Culture=neutral, PublicKeyToken=null
 Assembly: ModuleManager, Version=4.2.3.0, Culture=neutral, PublicKeyToken=null
 Assembly: ClickThroughBlocker, Version=2.1.10.21, Culture=neutral, PublicKeyToken=null
@@ -102,69 +102,16 @@ Assembly: VesselModuleSave, Version=1.0.1.2, Culture=neutral, PublicKeyToken=nul
 Assembly: SXTContinued, Version=0.3.31.1, Culture=neutral, PublicKeyToken=null
 Assembly: TextureReplacer, Version=4.2.1.21267, Culture=neutral, PublicKeyToken=null
 Assembly: TimeControl, Version=2.11.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: TweakScaleSafetyNet, Version=3.3.1.0, Culture=neutral, PublicKeyToken=null
 Assembly: TUFX, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null
-Assembly: KSPe.Light.TweakScale, Version=2.5.4.2, Culture=neutral, PublicKeyToken=null
-Assembly: Scale, Version=2.4.8.3, Culture=neutral, PublicKeyToken=null
-Assembly: TweakScale.WatchDog, Version=2.4.8.3, Culture=neutral, PublicKeyToken=null
-Assembly: TweakScaleCompanion_Frameworks, Version=0.4.0.3, Culture=neutral, PublicKeyToken=null
-Assembly: TweakScalerTestFlightCore, Version=0.4.0.3, Culture=neutral, PublicKeyToken=null
+Assembly: Scale, Version=3.3.1.0, Culture=neutral, PublicKeyToken=null
 Assembly: Waterfall, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-Assembly: TweakScalerWaterfallFX, Version=0.4.0.3, Culture=neutral, PublicKeyToken=null
-Assembly: TweakScaleCompanion_FS, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null
-Assembly: TweakScalerFSBuoyancy, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null
-Assembly: TweakScaleCompanion_KIAS, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null
-Assembly: TweakScalerKISInventory, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null
-Assembly: TweakScaleCompanion_PKMC, Version=2.2.1.1, Culture=neutral, PublicKeyToken=null
+Assembly: TweakScale_Waterfall, Version=3.3.1.0, Culture=neutral, PublicKeyToken=null
 
-[Log 22:05:33.5749998]: FlightEngineerCore->Awake
-[Log 22:05:37.3461890]: FlightEngineerCore->Start
-[Log 22:05:41.4550084]: FlightEngineerCore->OnDestroy
-[Log 22:25:48.9387470]: BuildAdvanced->OnDestroy
-[Log 22:25:49.6785370]: ActionMenu->Awake
-[Log 22:25:49.6795368]: FlightEngineerCore->Awake
-[Log 22:26:01.9845849]: ActionMenu->Start
-[Log 22:26:01.9966157]: FlightEngineerCore->Start
-[22:29:25.9688275]: Exception SimManager.StartSimulation() // System.NullReferenceException: Object reference not set to an instance of an object
-  at KerbalEngineer.VesselSimulator.SimManager.StartSimulation () [0x00054] in <134deb60e87843589b7ea1a020650b28>:0 
-[]:   at KerbalEngineer.VesselSimulator.SimManager.StartSimulation () [0x00054] in <134deb60e87843589b7ea1a020650b28>:0 
-
-[Log 22:29:27.6489240]: ActionMenu->OnDestroy
-[Log 22:29:27.6698094]: FlightEngineerCore->OnDestroy
-[Log 22:39:51.1165065]: BuildAdvanced->OnDestroy
-[Log 22:39:51.6278066]: ActionMenu->Awake
-[Log 22:39:51.6278066]: FlightEngineerCore->Awake
-[Log 22:39:59.2487218]: ActionMenu->Start
-[Log 22:39:59.2597301]: FlightEngineerCore->Start
-[Log 22:40:32.3678027]: ActionMenu->OnDestroy
-[Log 22:40:32.4093148]: FlightEngineerCore->OnDestroy
-[Log 22:40:33.0896638]: ActionMenu->Awake
-[Log 22:40:33.0896638]: FlightEngineerCore->Awake
-[Log 22:40:37.1644771]: ActionMenu->Start
-[Log 22:40:37.1754887]: FlightEngineerCore->Start
-[Log 22:41:07.2974765]: ActionMenu->OnDestroy
-[Log 22:41:07.3326410]: FlightEngineerCore->OnDestroy
-[Log 22:41:08.0003178]: ActionMenu->Awake
-[Log 22:41:08.0013179]: FlightEngineerCore->Awake
-[Log 22:41:12.0641955]: ActionMenu->Start
-[Log 22:41:12.0747815]: FlightEngineerCore->Start
-[Log 22:42:33.6074725]: ActionMenu->OnDestroy
-[Log 22:42:33.6119837]: FlightEngineerCore->OnDestroy
-[Log 22:52:51.5866222]: BuildAdvanced->OnDestroy
-[Log 22:52:52.3342409]: ActionMenu->Awake
-[Log 22:52:52.3342409]: FlightEngineerCore->Awake
-[Log 22:53:00.3433049]: ActionMenu->Start
-[Log 22:53:00.3543507]: FlightEngineerCore->Start
-[Log 23:00:31.0232562]: FlightEngineerCore->OnDestroy
-[Log 23:00:31.0252617]: ActionMenu->OnDestroy
-[Log 23:08:14.1221623]: BuildAdvanced->OnDestroy
-[Log 23:08:14.8908461]: ActionMenu->Awake
-[Log 23:08:14.8908461]: FlightEngineerCore->Awake
-[Log 23:08:22.8218989]: ActionMenu->Start
-[Log 23:08:22.8385188]: FlightEngineerCore->Start
-[23:12:49.7342572]: Exception SimManager.StartSimulation() // System.NullReferenceException: Object reference not set to an instance of an object
-  at KerbalEngineer.VesselSimulator.SimManager.StartSimulation () [0x00054] in <134deb60e87843589b7ea1a020650b28>:0 
-[]:   at KerbalEngineer.VesselSimulator.SimManager.StartSimulation () [0x00054] in <134deb60e87843589b7ea1a020650b28>:0 
-
-[Log 23:12:51.4970778]: ActionMenu->OnDestroy
-[Log 23:12:51.5271562]: FlightEngineerCore->OnDestroy
-[Log 23:14:48.5853317]: BuildAdvanced->OnDestroy
+[Log 23:07:51.0544748]: FlightEngineerCore->Awake
+[Log 23:07:54.6795566]: FlightEngineerCore->Start
+[Log 23:07:59.0419329]: FlightEngineerCore->OnDestroy
+[Log 23:13:13.0887262]: BuildAdvanced->OnDestroy
+[Log 23:13:13.7663752]: FlightEngineerCore->Awake
+[Log 23:13:18.5209283]: FlightEngineerCore->Start
+[Log 23:13:25.4071591]: FlightEngineerCore->OnDestroy

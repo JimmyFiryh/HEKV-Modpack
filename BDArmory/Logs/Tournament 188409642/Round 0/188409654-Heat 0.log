@@ -1,0 +1,13 @@
+[BDArmory.BDACompetitionMode:188409654]: Dumping Results after -399s (of 0s) at 2025-12-20 16:05:37 -05:00
+[BDArmory.BDACompetitionMode:188409654]: RESULT:Mutual Annihilation
+[BDArmory.BDACompetitionMode:188409654]: DEADTEAMS:[{"team": "Team A", "members": ["FF-218B-7 Vespa"]}, {"team": "Team B", "members": ["F-4P Phantom II"]}]
+[BDArmory.BDACompetitionMode:188409654]: MIA:FF-218B-7 Vespa
+[BDArmory.BDACompetitionMode:188409654]: MIA:F-4P Phantom II
+[BDArmory.BDACompetitionMode:188409654]: WHOHITWHOWITHMISSILES:F-4P Phantom II:5:FF-218B-7 Vespa
+[BDArmory.BDACompetitionMode:188409654]: WHOPARTSHITWHOWITHMISSILES:F-4P Phantom II:152:FF-218B-7 Vespa
+[BDArmory.BDACompetitionMode:188409654]: WHODAMAGEDWHOWITHMISSILES:F-4P Phantom II:32132.9:FF-218B-7 Vespa
+[BDArmory.BDACompetitionMode:188409654]: WHODAMAGEDWHOWITHBATTLEDAMAGE:F-4P Phantom II:112.8:FF-218B-7 Vespa
+[BDArmory.BDACompetitionMode:188409654]: HPLEFT:FF-218B-7 Vespa:0
+[BDArmory.BDACompetitionMode:188409654]: HPLEFT:F-4P Phantom II:0
+[BDArmory.BDACompetitionMode:188409654]: ACCURACY:FF-218B-7 Vespa:0/0:0/0
+[BDArmory.BDACompetitionMode:188409654]: ACCURACY:F-4P Phantom II:0/0:0/0
