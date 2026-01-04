@@ -274,7 +274,7 @@
         <IsDeleted>false</IsDeleted>
         <IsHudBackground>false</IsHudBackground>
         <IsVisible>true</IsVisible>
-        <LineCount>7</LineCount>
+        <LineCount>8</LineCount>
         <Name>HUD 1</Name>
         <ReadoutModuleNames>
           <string>Vessel.Name</string>
