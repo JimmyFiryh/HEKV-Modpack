@@ -1,0 +1,13 @@
+[BDArmory.BDACompetitionMode:190160686]: Dumping Results after -62s (of 0s) at 2026-01-09 22:26:35 -05:00
+[BDArmory.BDACompetitionMode:190160686]: RESULT:Draw:[{"team": "A", "members": ["[00] XF-18E missile tester"]}, {"team": "B", "members": ["[00] XF-18E missile tester_1"]}]
+[BDArmory.BDACompetitionMode:190160686]: DEADTEAMS:[]
+[BDArmory.BDACompetitionMode:190160686]: ALIVE:[00] XF-18E missile tester
+[BDArmory.BDACompetitionMode:190160686]: ALIVE:[00] XF-18E missile tester_1
+[BDArmory.BDACompetitionMode:190160686]: WHOHITWHOWITHMISSILES:[00] XF-18E missile tester:2:[00] XF-18E missile tester_1
+[BDArmory.BDACompetitionMode:190160686]: WHOPARTSHITWHOWITHMISSILES:[00] XF-18E missile tester:187:[00] XF-18E missile tester_1
+[BDArmory.BDACompetitionMode:190160686]: WHODAMAGEDWHOWITHMISSILES:[00] XF-18E missile tester:78103.1:[00] XF-18E missile tester_1
+[BDArmory.BDACompetitionMode:190160686]: WHODAMAGEDWHOWITHBATTLEDAMAGE:[00] XF-18E missile tester:0.8:[00] XF-18E missile tester_1
+[BDArmory.BDACompetitionMode:190160686]: HPLEFT:[00] XF-18E missile tester:50
+[BDArmory.BDACompetitionMode:190160686]: HPLEFT:[00] XF-18E missile tester_1:100
+[BDArmory.BDACompetitionMode:190160686]: ACCURACY:[00] XF-18E missile tester:0/0:0/0
+[BDArmory.BDACompetitionMode:190160686]: ACCURACY:[00] XF-18E missile tester_1:0/0:0/0
