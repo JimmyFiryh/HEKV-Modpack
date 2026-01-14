@@ -1,8 +1,8 @@
 Executing: KerbalEngineer - 1.1.9.0
 Assembly: C:\KSP PS\GameData\KerbalEngineer\KerbalEngineer.dll
 
-[Log 17:17:03.6753772]: images (UnityEngine.AssetBundle)
-[Log 17:20:30.1036717]: Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+[Log 19:03:19.4027998]: images (UnityEngine.AssetBundle)
+[Log 19:06:37.1656598]: Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: ModuleManagerWatchDog, Version=1.1.2.0, Culture=neutral, PublicKeyToken=null
 Assembly: Scale_Redist, Version=3.3.1.0, Culture=neutral, PublicKeyToken=null
 Assembly: GroundEffect, Version=1.0.7533.23743, Culture=neutral, PublicKeyToken=null
@@ -108,14 +108,14 @@ Assembly: Scale, Version=3.3.1.0, Culture=neutral, PublicKeyToken=null
 Assembly: Waterfall, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: TweakScale_Waterfall, Version=3.3.1.0, Culture=neutral, PublicKeyToken=null
 
-[Log 17:20:30.1036717]: FlightEngineerCore->Awake
-[Log 17:20:33.7675206]: FlightEngineerCore->Start
-[Log 17:20:38.5785842]: FlightEngineerCore->OnDestroy
-[Log 17:23:45.8005827]: BuildAdvanced->OnDestroy
-[Log 17:23:46.3995824]: ActionMenu->Awake
-[Log 17:23:46.3995824]: FlightEngineerCore->Awake
-[Log 17:23:57.2873065]: ActionMenu->Start
-[Log 17:23:57.2982782]: FlightEngineerCore->Start
-[Log 17:26:35.5364645]: FlightEngineerCore->OnDestroy
-[Log 17:26:35.5995785]: ActionMenu->OnDestroy
-[Log 17:27:43.9335461]: BuildAdvanced->OnDestroy
+[Log 19:06:37.1656598]: FlightEngineerCore->Awake
+[Log 19:06:40.7479044]: FlightEngineerCore->Start
+[Log 19:06:44.9710559]: FlightEngineerCore->OnDestroy
+[Log 19:10:11.8071232]: BuildAdvanced->OnDestroy
+[Log 19:10:12.3390976]: ActionMenu->Awake
+[Log 19:10:12.3390976]: FlightEngineerCore->Awake
+[Log 19:10:22.6067112]: ActionMenu->Start
+[Log 19:10:22.6177252]: FlightEngineerCore->Start
+[Log 19:15:17.1732192]: FlightEngineerCore->OnDestroy
+[Log 19:15:17.2162721]: ActionMenu->OnDestroy
+[Log 19:15:38.4879481]: BuildAdvanced->OnDestroy
