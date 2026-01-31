@@ -1,0 +1,32 @@
+[BDArmory.BDACompetitionMode:190863414]: Dumping Results after 128s (of 0s) at 2026-01-18 01:40:48 -05:00
+[BDArmory.BDACompetitionMode:190863414]: RESULT:Win:{"team": "Team B", "members": ["KMX-21A2 Kestros", "KMX-21A2 Kestros_1", "KMX-21A2 Kestros_2"]}
+[BDArmory.BDACompetitionMode:190863414]: DEADTEAMS:[{"team": "Team A", "members": ["TPKTW XK-100 Dagger", "KF/IA-100 V1 \"Super Puma\" (SaberTooth)", "MRJ-Trident LN100 Seal Sobre"]}]
+[BDArmory.BDACompetitionMode:190863414]: ALIVE:KMX-21A2 Kestros
+[BDArmory.BDACompetitionMode:190863414]: ALIVE:KMX-21A2 Kestros_1
+[BDArmory.BDACompetitionMode:190863414]: ALIVE:KMX-21A2 Kestros_2
+[BDArmory.BDACompetitionMode:190863414]: DEAD:0:88.0:TPKTW XK-100 Dagger
+[BDArmory.BDACompetitionMode:190863414]: DEAD:2:122.0:KF/IA-100 V1 "Super Puma" (SaberTooth)
+[BDArmory.BDACompetitionMode:190863414]: DEAD:1:101.0:MRJ-Trident LN100 Seal Sobre
+[BDArmory.BDACompetitionMode:190863414]: WHOSHOTWHOWITHGUNS:TPKTW XK-100 Dagger:17:KMX-21A2 Kestros_2
+[BDArmory.BDACompetitionMode:190863414]: WHOSHOTWHOWITHGUNS:KF/IA-100 V1 "Super Puma" (SaberTooth):15:KMX-21A2 Kestros
+[BDArmory.BDACompetitionMode:190863414]: WHOSHOTWHOWITHGUNS:MRJ-Trident LN100 Seal Sobre:11:KMX-21A2 Kestros
+[BDArmory.BDACompetitionMode:190863414]: WHODAMAGEDWHOWITHGUNS:TPKTW XK-100 Dagger:2498.3:KMX-21A2 Kestros_2
+[BDArmory.BDACompetitionMode:190863414]: WHODAMAGEDWHOWITHGUNS:KF/IA-100 V1 "Super Puma" (SaberTooth):3058.3:KMX-21A2 Kestros
+[BDArmory.BDACompetitionMode:190863414]: WHODAMAGEDWHOWITHGUNS:MRJ-Trident LN100 Seal Sobre:1607.9:KMX-21A2 Kestros
+[BDArmory.BDACompetitionMode:190863414]: WHODAMAGEDWHOWITHBATTLEDAMAGE:TPKTW XK-100 Dagger:337.6:KMX-21A2 Kestros_2:227.4:TPKTW XK-100 Dagger
+[BDArmory.BDACompetitionMode:190863414]: WHODAMAGEDWHOWITHBATTLEDAMAGE:KF/IA-100 V1 "Super Puma" (SaberTooth):358.0:KMX-21A2 Kestros:1131.9:KF/IA-100 V1 "Super Puma" (SaberTooth)
+[BDArmory.BDACompetitionMode:190863414]: WHODAMAGEDWHOWITHBATTLEDAMAGE:MRJ-Trident LN100 Seal Sobre:111.2:KMX-21A2 Kestros:7163.6:MRJ-Trident LN100 Seal Sobre
+[BDArmory.BDACompetitionMode:190863414]: CLEANKILLGUNS:TPKTW XK-100 Dagger:KMX-21A2 Kestros_2
+[BDArmory.BDACompetitionMode:190863414]: CLEANKILLGUNS:MRJ-Trident LN100 Seal Sobre:KMX-21A2 Kestros
+[BDArmory.BDACompetitionMode:190863414]: HPLEFT:KMX-21A2 Kestros:100
+[BDArmory.BDACompetitionMode:190863414]: HPLEFT:KMX-21A2 Kestros_1:100
+[BDArmory.BDACompetitionMode:190863414]: HPLEFT:KMX-21A2 Kestros_2:100
+[BDArmory.BDACompetitionMode:190863414]: HPLEFT:TPKTW XK-100 Dagger:0
+[BDArmory.BDACompetitionMode:190863414]: HPLEFT:KF/IA-100 V1 "Super Puma" (SaberTooth):0
+[BDArmory.BDACompetitionMode:190863414]: HPLEFT:MRJ-Trident LN100 Seal Sobre:0
+[BDArmory.BDACompetitionMode:190863414]: ACCURACY:KMX-21A2 Kestros:26/72:0/0
+[BDArmory.BDACompetitionMode:190863414]: ACCURACY:KMX-21A2 Kestros_1:0/34:0/0
+[BDArmory.BDACompetitionMode:190863414]: ACCURACY:KMX-21A2 Kestros_2:17/45:0/0
+[BDArmory.BDACompetitionMode:190863414]: ACCURACY:TPKTW XK-100 Dagger:0/0:0/0
+[BDArmory.BDACompetitionMode:190863414]: ACCURACY:KF/IA-100 V1 "Super Puma" (SaberTooth):0/0:0/0
+[BDArmory.BDACompetitionMode:190863414]: ACCURACY:MRJ-Trident LN100 Seal Sobre:0/0:0/0

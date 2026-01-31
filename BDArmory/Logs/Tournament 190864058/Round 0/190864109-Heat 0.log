@@ -1,0 +1,31 @@
+[BDArmory.BDACompetitionMode:190864109]: Dumping Results after 133s (of 0s) at 2026-01-18 01:53:31 -05:00
+[BDArmory.BDACompetitionMode:190864109]: RESULT:Win:{"team": "Team A", "members": ["YF-109 Rapier II", "YF-109 Rapier II_1", "YF-109 Rapier II_2"]}
+[BDArmory.BDACompetitionMode:190864109]: DEADTEAMS:[{"team": "Team B", "members": ["Balalaika (Early) 2", "Balalaika (Early) 2_1", "Balalaika (Early) 2_2"]}]
+[BDArmory.BDACompetitionMode:190864109]: ALIVE:YF-109 Rapier II
+[BDArmory.BDACompetitionMode:190864109]: ALIVE:YF-109 Rapier II_1
+[BDArmory.BDACompetitionMode:190864109]: DEAD:1:113.0:Balalaika (Early) 2
+[BDArmory.BDACompetitionMode:190864109]: DEAD:0:100.7:Balalaika (Early) 2_1
+[BDArmory.BDACompetitionMode:190864109]: DEAD:2:127.0:Balalaika (Early) 2_2
+[BDArmory.BDACompetitionMode:190864109]: MIA:YF-109 Rapier II_2
+[BDArmory.BDACompetitionMode:190864109]: WHOSHOTWHOWITHGUNS:Balalaika (Early) 2:20:YF-109 Rapier II_1
+[BDArmory.BDACompetitionMode:190864109]: WHOSHOTWHOWITHGUNS:Balalaika (Early) 2_2:107:YF-109 Rapier II_2:25:YF-109 Rapier II
+[BDArmory.BDACompetitionMode:190864109]: WHODAMAGEDWHOWITHGUNS:Balalaika (Early) 2:3143.0:YF-109 Rapier II_1
+[BDArmory.BDACompetitionMode:190864109]: WHODAMAGEDWHOWITHGUNS:Balalaika (Early) 2_2:11044.3:YF-109 Rapier II_2:2477.3:YF-109 Rapier II
+[BDArmory.BDACompetitionMode:190864109]: WHOHITWHOWITHMISSILES:Balalaika (Early) 2_1:2:YF-109 Rapier II_2
+[BDArmory.BDACompetitionMode:190864109]: WHOPARTSHITWHOWITHMISSILES:Balalaika (Early) 2_1:139:YF-109 Rapier II_2
+[BDArmory.BDACompetitionMode:190864109]: WHODAMAGEDWHOWITHMISSILES:Balalaika (Early) 2_1:57205.9:YF-109 Rapier II_2
+[BDArmory.BDACompetitionMode:190864109]: WHODAMAGEDWHOWITHBATTLEDAMAGE:Balalaika (Early) 2:1138.4:YF-109 Rapier II_1
+[BDArmory.BDACompetitionMode:190864109]: WHODAMAGEDWHOWITHBATTLEDAMAGE:Balalaika (Early) 2_2:2000.1:YF-109 Rapier II_2:170.0:YF-109 Rapier II:6659.0:Balalaika (Early) 2_2
+[BDArmory.BDACompetitionMode:190864109]: GMKILL:Balalaika (Early) 2_1:GM
+[BDArmory.BDACompetitionMode:190864109]: HPLEFT:Balalaika (Early) 2:0
+[BDArmory.BDACompetitionMode:190864109]: HPLEFT:Balalaika (Early) 2_1:0
+[BDArmory.BDACompetitionMode:190864109]: HPLEFT:Balalaika (Early) 2_2:0
+[BDArmory.BDACompetitionMode:190864109]: HPLEFT:YF-109 Rapier II:100
+[BDArmory.BDACompetitionMode:190864109]: HPLEFT:YF-109 Rapier II_1:100
+[BDArmory.BDACompetitionMode:190864109]: HPLEFT:YF-109 Rapier II_2:14.8648648648649
+[BDArmory.BDACompetitionMode:190864109]: ACCURACY:Balalaika (Early) 2:0/1:0/0
+[BDArmory.BDACompetitionMode:190864109]: ACCURACY:Balalaika (Early) 2_1:0/0:0/0
+[BDArmory.BDACompetitionMode:190864109]: ACCURACY:Balalaika (Early) 2_2:0/1:0/0
+[BDArmory.BDACompetitionMode:190864109]: ACCURACY:YF-109 Rapier II:25/120:0/0
+[BDArmory.BDACompetitionMode:190864109]: ACCURACY:YF-109 Rapier II_1:20/60:0/0
+[BDArmory.BDACompetitionMode:190864109]: ACCURACY:YF-109 Rapier II_2:107/321:0/0

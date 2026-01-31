@@ -1,0 +1,35 @@
+[BDArmory.BDACompetitionMode:190865252]: Dumping Results after 147s (of 0s) at 2026-01-18 02:12:22 -05:00
+[BDArmory.BDACompetitionMode:190865252]: RESULT:Win:{"team": "Team B", "members": ["Mirage 4000", "Mirage 4000_1", "Mirage 4000_2"]}
+[BDArmory.BDACompetitionMode:190865252]: DEADTEAMS:[{"team": "Team A", "members": ["FF-215B-15 Aquila", "FF-213A-36 Starlance", "FF-213A-36 Starlance_1"]}]
+[BDArmory.BDACompetitionMode:190865252]: ALIVE:Mirage 4000
+[BDArmory.BDACompetitionMode:190865252]: ALIVE:Mirage 4000_1
+[BDArmory.BDACompetitionMode:190865252]: ALIVE:Mirage 4000_2
+[BDArmory.BDACompetitionMode:190865252]: DEAD:1:133.0:FF-215B-15 Aquila
+[BDArmory.BDACompetitionMode:190865252]: DEAD:2:141.0:FF-213A-36 Starlance
+[BDArmory.BDACompetitionMode:190865252]: DEAD:0:128.0:FF-213A-36 Starlance_1
+[BDArmory.BDACompetitionMode:190865252]: WHOSHOTWHOWITHGUNS:FF-215B-15 Aquila:29:Mirage 4000:26:Mirage 4000_2
+[BDArmory.BDACompetitionMode:190865252]: WHOSHOTWHOWITHGUNS:FF-213A-36 Starlance:1:Mirage 4000:46:Mirage 4000_1
+[BDArmory.BDACompetitionMode:190865252]: WHOSHOTWHOWITHGUNS:FF-213A-36 Starlance_1:20:Mirage 4000_2
+[BDArmory.BDACompetitionMode:190865252]: WHODAMAGEDWHOWITHGUNS:FF-215B-15 Aquila:13545.6:Mirage 4000:7654.3:Mirage 4000_2
+[BDArmory.BDACompetitionMode:190865252]: WHODAMAGEDWHOWITHGUNS:FF-213A-36 Starlance:418.1:Mirage 4000:16410.3:Mirage 4000_1
+[BDArmory.BDACompetitionMode:190865252]: WHODAMAGEDWHOWITHGUNS:FF-213A-36 Starlance_1:8253.6:Mirage 4000_2
+[BDArmory.BDACompetitionMode:190865252]: WHOHITWHOWITHMISSILES:FF-213A-36 Starlance_1:1:Mirage 4000_2
+[BDArmory.BDACompetitionMode:190865252]: WHOPARTSHITWHOWITHMISSILES:FF-213A-36 Starlance_1:60:Mirage 4000_2
+[BDArmory.BDACompetitionMode:190865252]: WHODAMAGEDWHOWITHMISSILES:FF-213A-36 Starlance_1:8953.3:Mirage 4000_2
+[BDArmory.BDACompetitionMode:190865252]: WHODAMAGEDWHOWITHBATTLEDAMAGE:FF-215B-15 Aquila:161.2:Mirage 4000:300.0:Mirage 4000_2
+[BDArmory.BDACompetitionMode:190865252]: WHODAMAGEDWHOWITHBATTLEDAMAGE:FF-213A-36 Starlance:1236.0:Mirage 4000_1
+[BDArmory.BDACompetitionMode:190865252]: WHODAMAGEDWHOWITHBATTLEDAMAGE:FF-213A-36 Starlance_1:21.2:Mirage 4000_2
+[BDArmory.BDACompetitionMode:190865252]: KILLSTEALGUNS:FF-215B-15 Aquila:Mirage 4000_2
+[BDArmory.BDACompetitionMode:190865252]: HEADSHOTGUNS:FF-213A-36 Starlance:Mirage 4000_1
+[BDArmory.BDACompetitionMode:190865252]: HPLEFT:FF-215B-15 Aquila:0
+[BDArmory.BDACompetitionMode:190865252]: HPLEFT:FF-213A-36 Starlance:0
+[BDArmory.BDACompetitionMode:190865252]: HPLEFT:FF-213A-36 Starlance_1:0
+[BDArmory.BDACompetitionMode:190865252]: HPLEFT:Mirage 4000:100
+[BDArmory.BDACompetitionMode:190865252]: HPLEFT:Mirage 4000_1:100
+[BDArmory.BDACompetitionMode:190865252]: HPLEFT:Mirage 4000_2:100
+[BDArmory.BDACompetitionMode:190865252]: ACCURACY:FF-215B-15 Aquila:0/1:0/0
+[BDArmory.BDACompetitionMode:190865252]: ACCURACY:FF-213A-36 Starlance:0/0:0/0
+[BDArmory.BDACompetitionMode:190865252]: ACCURACY:FF-213A-36 Starlance_1:0/0:0/0
+[BDArmory.BDACompetitionMode:190865252]: ACCURACY:Mirage 4000:30/120:0/0
+[BDArmory.BDACompetitionMode:190865252]: ACCURACY:Mirage 4000_1:46/129:0/0
+[BDArmory.BDACompetitionMode:190865252]: ACCURACY:Mirage 4000_2:46/242:0/0
