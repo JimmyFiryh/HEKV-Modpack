@@ -1,0 +1,9 @@
+{
+  "NAME": "Shabby",
+  "VERSION": "0.4.2.0",
+  "URL": "https://github.com/KSPModdingLibs/Shabby/releases/latest/download/Shabby.version",
+  "DOWNLOAD": "https://github.com/KSPModdingLibs/Shabby/releases/latest",
+  "KSP_VERSION": "1.12",
+  "KSP_VERSION_MIN": "1.8",
+  "KSP_VERSION_MAX": "1.12"
+}
