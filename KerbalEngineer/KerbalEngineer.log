@@ -1,8 +1,8 @@
 Executing: KerbalEngineer - 1.1.9.0
 Assembly: C:\KSP PS\GameData\KerbalEngineer\KerbalEngineer.dll
 
-[Log 21:27:04.1471851]: images (UnityEngine.AssetBundle)
-[Log 21:30:28.4473855]: Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+[Log 18:14:56.1241869]: images (UnityEngine.AssetBundle)
+[Log 18:18:26.5621064]: Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: ModuleManagerWatchDog, Version=1.1.2.0, Culture=neutral, PublicKeyToken=null
 Assembly: Scale_Redist, Version=3.3.1.0, Culture=neutral, PublicKeyToken=null
 Assembly: GroundEffect, Version=1.0.7533.23743, Culture=neutral, PublicKeyToken=null
@@ -110,14 +110,25 @@ Assembly: Waterfall, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: TweakScale_Waterfall, Version=3.3.1.0, Culture=neutral, PublicKeyToken=null
 Assembly: Deferred, Version=1.3.3.0, Culture=neutral, PublicKeyToken=null
 
-[Log 21:30:28.4473855]: FlightEngineerCore->Awake
-[Log 21:30:32.2324978]: FlightEngineerCore->Start
-[Log 21:30:37.3174878]: FlightEngineerCore->OnDestroy
-[Log 21:32:05.3762085]: BuildAdvanced->OnDestroy
-[Log 21:32:06.1970990]: ActionMenu->Awake
-[Log 21:32:06.1970990]: FlightEngineerCore->Awake
-[Log 21:32:17.3358585]: ActionMenu->Start
-[Log 21:32:17.3461102]: FlightEngineerCore->Start
-[Log 21:32:43.3471257]: ActionMenu->OnDestroy
-[Log 21:32:43.3675758]: FlightEngineerCore->OnDestroy
-[Log 21:32:51.2688974]: BuildAdvanced->OnDestroy
+[Log 18:18:26.5621064]: FlightEngineerCore->Awake
+[Log 18:18:30.2472941]: FlightEngineerCore->Start
+[Log 18:18:36.4825318]: FlightEngineerCore->OnDestroy
+[Log 18:19:18.9292727]: BuildAdvanced->OnDestroy
+[Log 18:19:19.5252365]: ActionMenu->Awake
+[Log 18:19:19.5252365]: FlightEngineerCore->Awake
+[Log 18:19:30.7272876]: ActionMenu->Start
+[Log 18:19:30.7387995]: FlightEngineerCore->Start
+[18:25:55.9223731]: Exception SimManager.StartSimulation() // System.NullReferenceException: Object reference not set to an instance of an object
+  at KerbalEngineer.VesselSimulator.SimManager.StartSimulation () [0x00054] in <134deb60e87843589b7ea1a020650b28>:0 
+[]:   at KerbalEngineer.VesselSimulator.SimManager.StartSimulation () [0x00054] in <134deb60e87843589b7ea1a020650b28>:0 
+
+[Log 18:25:57.8922195]: FlightEngineerCore->OnDestroy
+[Log 18:25:57.9488892]: ActionMenu->OnDestroy
+[Log 18:26:17.2190035]: BuildAdvanced->OnDestroy
+[Log 18:26:17.7442149]: ActionMenu->Awake
+[Log 18:26:17.7452163]: FlightEngineerCore->Awake
+[Log 18:26:25.1795230]: ActionMenu->Start
+[Log 18:26:25.1896289]: FlightEngineerCore->Start
+[Log 18:28:52.1994865]: ActionMenu->OnDestroy
+[Log 18:28:52.2676914]: FlightEngineerCore->OnDestroy
+[Log 18:29:12.7351056]: BuildAdvanced->OnDestroy
