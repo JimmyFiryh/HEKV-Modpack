@@ -4,10 +4,12 @@
 /Ace_Kombat/
 /AmazingCurveEditor/
 /BoxOfStardust/
+/CameraTools/
 /CaptureTools/
 /CorrectCOL/
 /Daeson_Heavy_Industries/
 /DarianNavy/
+/EditorExtensionsRedux/
 /EnvironmentalVisualEnhancements/
 /FJRTgoodies/
 /FJRTMissilePack/
@@ -15,6 +17,7 @@
 /HeapPadder/
 /HUDReplacer/
 /JimmyTemp/
+/KerbalEngineer/
 /KerbalPowers/
 /KFC/
 /Kopernicus/
@@ -26,6 +29,7 @@
 /ParallaxContinued/
 /Pilot Assistant/
 /PlanetShine/
+/PreciseEditor/
 /RetractableLiftingSurface/
 /Scatterer/
 /ScattererAtmosphereCache/
@@ -34,10 +38,12 @@
 /StockScattererConfigs/
 /StockVolumetricClouds/
 /SXT/
+/TimeControl/
 /TUFX/
 /TwinCrownAerospace/
 /UnityExplorerKSP/
 /ZTheme/
+/zzz_Deferred
 
 /ModuleManager.ConfigCache
 /ModuleManager.ConfigSHA
@@ -49,5 +55,4 @@
 
 #/test/
 BDArmory/PluginData/tournament.state
-KerbalEngineer/KerbalEngineer.log
 *.log
