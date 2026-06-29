@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/KSP-CKAN/CKAN/refs/heads/master/CKAN.schema
+
+name: KSP Texture Loader
+abstract: A library for efficiently loading textures in KSP
+author:
+  - steamroller
+
+resources:
+  homepage: https://github.com/Phantomical/KSPTextureLoader
+
+tags:
+  - plugin
+  - library
+
+depends:
+  - name: ModuleManager
+    min_version: 4.2.3
