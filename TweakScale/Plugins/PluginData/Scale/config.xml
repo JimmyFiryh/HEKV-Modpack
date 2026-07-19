@@ -11,6 +11,6 @@
     <keycode name="ToggleTemp Match Node Size">LeftControl</keycode>
     <string name="Toggle Match Node Size">M</string>
     <bool name="Match Node Size">0</bool>
-    <bool name="Show Stats">0</bool>
+    <bool name="Show Stats">1</bool>
     <bool name="Show KeyBinds">0</bool>
 </config>
